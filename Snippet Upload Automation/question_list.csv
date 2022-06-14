@@ -1,0 +1,273 @@
+ID,Question,Topic,Module
+1130,Print Z,Getting Started,Basics of Programming
+1131,Grading System,Getting Started,Basics of Programming
+1132,Is A Number Prime,Getting Started,Basics of Programming
+1133,Print All Primes Till N,Getting Started,Basics of Programming
+1134,Print Fibonacci Numbers Till N,Getting Started,Basics of Programming
+1135,Count Digits In A Number,Getting Started,Basics of Programming
+1136,Digits Of A Number,Getting Started,Basics of Programming
+1137,Reverse A Number,Getting Started,Basics of Programming
+1139,Inverse Of A Number,Getting Started,Basics of Programming
+1138,Rotate A Number,Getting Started,Basics of Programming
+1140,Gcd And Lcm,Getting Started,Basics of Programming
+1141,Prime Factorization Of A Number,Getting Started,Basics of Programming
+1143,Pythagorean Triplet,Getting Started,Basics of Programming
+1142,The Curious Case Of Benjamin Bulbs,Getting Started,Basics of Programming
+2355,Complex Queries,Getting Started,Basics of Programming
+2401,Largest Number,Getting Started,Basics of Programming
+2505,Inverse Of A Number - Left To Right,Getting Started,Basics of Programming
+1144,Pattern 1,Patterns,Basics of Programming
+1145,Pattern 2,Patterns,Basics of Programming
+1146,Pattern 3,Patterns,Basics of Programming
+1147,Pattern 4,Patterns,Basics of Programming
+1148,Pattern 5,Patterns,Basics of Programming
+1149,Pattern 6,Patterns,Basics of Programming
+1150,Pattern 7,Patterns,Basics of Programming
+1151,Pattern 8,Patterns,Basics of Programming
+1152,Pattern 9,Patterns,Basics of Programming
+1153,Pattern 10,Patterns,Basics of Programming
+1154,Pattern 11,Patterns,Basics of Programming
+1155,Pattern 12,Patterns,Basics of Programming
+1156,Pattern 13,Patterns,Basics of Programming
+1157,Pattern 14,Patterns,Basics of Programming
+1158,Pattern 15,Patterns,Basics of Programming
+1159,Pattern 16,Patterns,Basics of Programming
+1160,Pattern 17,Patterns,Basics of Programming
+1161,Pattern 18,Patterns,Basics of Programming
+1162,Pattern 19,Patterns,Basics of Programming
+1163,Pattern 20,Patterns,Basics of Programming
+2497,Pattern M,Patterns,Basics of Programming
+2500,Pattern Inverted Hour Glass,Patterns,Basics of Programming
+1164,Digit Frequency,Function and Arrays,Basics of Programming
+1165,Decimal To Any Base,Function and Arrays,Basics of Programming
+1166,Any Base To Decimal,Function and Arrays,Basics of Programming
+1167,Any Base To Any Base,Function and Arrays,Basics of Programming
+1168,Any Base Addition,Function and Arrays,Basics of Programming
+1169,Any Base Subtraction,Function and Arrays,Basics of Programming
+1170,Any Base Multiplication,Function and Arrays,Basics of Programming
+1171,Span Of Array,Function and Arrays,Basics of Programming
+1172,Find Element In An Array,Function and Arrays,Basics of Programming
+1173,Bar Chart,Function and Arrays,Basics of Programming
+1174,Sum Of Two Arrays,Function and Arrays,Basics of Programming
+1175,Difference Of Two Arrays,Function and Arrays,Basics of Programming
+1176,Reverse An Array,Function and Arrays,Basics of Programming
+1177,Rotate An Array,Function and Arrays,Basics of Programming
+1178,Inverse Of An Array,Function and Arrays,Basics of Programming
+1179,Subarray Problem,Function and Arrays,Basics of Programming
+1181,Broken Economy,Function and Arrays,Basics of Programming
+1182,First Index And Last Index,Function and Arrays,Basics of Programming
+1180,Subsets Of Array,Function and Arrays,Basics of Programming
+2496,Inverted Bar Chart,Function and Arrays,Basics of Programming
+1183,2d Arrays Demo,2D Arrays,Basics of Programming
+1184,Matrix Multiplication,2D Arrays,Basics of Programming
+1185,The State Of Wakanda - 1,2D Arrays,Basics of Programming
+1186,Spiral Display,2D Arrays,Basics of Programming
+1187,Exit Point Of A Matrix,2D Arrays,Basics of Programming
+1188,Rotate By 90 Degree,2D Arrays,Basics of Programming
+1189,Ring Rotate,2D Arrays,Basics of Programming
+1190,The State Of Wakanda - 2,2D Arrays,Basics of Programming
+1191,Saddle Price,2D Arrays,Basics of Programming
+1192,Search In A Sorted 2d Array,2D Arrays,Basics of Programming
+1602,Print All Palindromic Substrings,"String, String Builder and ArrayList",Basics of Programming
+1603,String Compression,"String, String Builder and ArrayList",Basics of Programming
+1604,Toggle Case,"String, String Builder and ArrayList",Basics of Programming
+1605,String With Difference Of Every Two Consecutive Characters,"String, String Builder and ArrayList",Basics of Programming
+1607,Print All Permutations Of A String Iteratively,"String, String Builder and ArrayList",Basics of Programming
+1606,Remove Primes,"String, String Builder and ArrayList",Basics of Programming
+1194,Print Decreasing,Introduction to Recursion,Recursion and  Backtracking
+1195,Print Increasing,Introduction to Recursion,Recursion and  Backtracking
+1196,Print Increasing Decreasing,Introduction to Recursion,Recursion and  Backtracking
+1197,Factorial,Introduction to Recursion,Recursion and  Backtracking
+1199,Power-logarithmic,Introduction to Recursion,Recursion and  Backtracking
+1200,Print Zigzag,Introduction to Recursion,Recursion and  Backtracking
+1201,Tower Of Hanoi,Introduction to Recursion,Recursion and  Backtracking
+1198,Power-linear,Introduction to Recursion,Recursion and  Backtracking
+1202,Display Array,Recursion in Arrays,Recursion and  Backtracking
+1203,Display Array In Reverse,Recursion in Arrays,Recursion and  Backtracking
+1204,Max Of An Array,Recursion in Arrays,Recursion and  Backtracking
+1206,First Index,Recursion in Arrays,Recursion and  Backtracking
+1207,Last Index,Recursion in Arrays,Recursion and  Backtracking
+1208,All Indices Of Array,Recursion in Arrays,Recursion and  Backtracking
+1209,Get Subsequence,Recursion with Arraylists,Recursion and  Backtracking
+1210,Get Kpc,Recursion with Arraylists,Recursion and  Backtracking
+1211,Get Stair Paths,Recursion with Arraylists,Recursion and  Backtracking
+1212,Get Maze Paths,Recursion with Arraylists,Recursion and  Backtracking
+1213,Get Maze Path With Jumps,Recursion with Arraylists,Recursion and  Backtracking
+1216,Print Subsequence,Recursion on the way up,Recursion and  Backtracking
+1214,Print Kpc,Recursion on the way up,Recursion and  Backtracking
+1215,Print Stair Paths,Recursion on the way up,Recursion and  Backtracking
+1217,Print Maze Paths,Recursion on the way up,Recursion and  Backtracking
+1218,Print Maze Paths With Jumps,Recursion on the way up,Recursion and  Backtracking
+1219,Print Permutations,Recursion on the way up,Recursion and  Backtracking
+1220,Print Encodings,Recursion on the way up,Recursion and  Backtracking
+1221,Flood Fill,Recursion Backtracking,Recursion and  Backtracking
+1222,Target Sum Subsets,Recursion Backtracking,Recursion and  Backtracking
+1223,N Queens,Recursion Backtracking,Recursion and  Backtracking
+1224,Knights Tour,Recursion Backtracking,Recursion and  Backtracking
+1490,Bubble Sort,Time and Space Complexity,Dynamic Programming
+1491,Selection Sort,Time and Space Complexity,Dynamic Programming
+1492,Insertion Sort,Time and Space Complexity,Dynamic Programming
+1495,Merge Two Sorted Arrays,Time and Space Complexity,Dynamic Programming
+1496,Merge Sort,Time and Space Complexity,Dynamic Programming
+1497,Partition An Array,Time and Space Complexity,Dynamic Programming
+1498,Quick Sort,Time and Space Complexity,Dynamic Programming
+1499,Quick Select,Time and Space Complexity,Dynamic Programming
+1500,Count Sort,Time and Space Complexity,Dynamic Programming
+1501,Radix Sort,Time and Space Complexity,Dynamic Programming
+1502,Sort Dates,Time and Space Complexity,Dynamic Programming
+1503,Sort 01,Time and Space Complexity,Dynamic Programming
+1504,Sort 012,Time and Space Complexity,Dynamic Programming
+1505,Target Sum Pair 1,Time and Space Complexity,Dynamic Programming
+1515,Pivot In Sorted And Rotated Array,Time and Space Complexity,Dynamic Programming
+1225,Fibonacci-dp,Dynamic Programming and Greedy,Dynamic Programming
+1226,Climb Stairs,Dynamic Programming and Greedy,Dynamic Programming
+1227,Climb Stairs With Variable Jumps,Dynamic Programming and Greedy,Dynamic Programming
+1228,Climb Stairs With Minimum Moves,Dynamic Programming and Greedy,Dynamic Programming
+1232,Min Cost In Maze Traversal,Dynamic Programming and Greedy,Dynamic Programming
+1233,Goldmine,Dynamic Programming and Greedy,Dynamic Programming
+1234,Target Sum Subsets - Dp,Dynamic Programming and Greedy,Dynamic Programming
+1235,Coin Change Combination,Dynamic Programming and Greedy,Dynamic Programming
+1236,Coin Change Permutations,Dynamic Programming and Greedy,Dynamic Programming
+1238,Zero One Knapsack,Dynamic Programming and Greedy,Dynamic Programming
+1239,Unbounded Knapsack,Dynamic Programming and Greedy,Dynamic Programming
+1240,Fractional Knapsack - Official,Dynamic Programming and Greedy,Dynamic Programming
+1243,Count Binary Strings,Dynamic Programming and Greedy,Dynamic Programming
+1244,Arrange Buildings,Dynamic Programming and Greedy,Dynamic Programming
+1245,Count Encodings,Dynamic Programming and Greedy,Dynamic Programming
+1246,Count A+b+c+ Subsequences,Dynamic Programming and Greedy,Dynamic Programming
+1263,Maximum Sum Non Adjacent Elements,Dynamic Programming and Greedy,Dynamic Programming
+1264,Paint House,Dynamic Programming and Greedy,Dynamic Programming
+1265,Paint House - Many Colors,Dynamic Programming and Greedy,Dynamic Programming
+1266,Paint Fence,Dynamic Programming and Greedy,Dynamic Programming
+1267,Tiling With 2 * 1 Tiles,Dynamic Programming and Greedy,Dynamic Programming
+1268,Tiling With M * 1 Tiles,Dynamic Programming and Greedy,Dynamic Programming
+1269,Friends Pairing,Dynamic Programming and Greedy,Dynamic Programming
+1270,Partition Into Subsets,Dynamic Programming and Greedy,Dynamic Programming
+1271,Buy And Sell Stocks - One Transaction Allowed,Dynamic Programming and Greedy,Dynamic Programming
+1272,Buy And Sell Stocks - Infinite Transactions Allowed,Dynamic Programming and Greedy,Dynamic Programming
+1273,Buy And Sell Stocks With Transaction Fee - Infinite Transactions Allowed,Dynamic Programming and Greedy,Dynamic Programming
+1274,Buy And Sell Stocks With Cooldown - Infinite Transaction Allowed,Dynamic Programming and Greedy,Dynamic Programming
+1275,Buy And Sell Stocks - Two Transactions Allowed,Dynamic Programming and Greedy,Dynamic Programming
+1276,Buy And Sell Stocks - K Transactions Allowed,Dynamic Programming and Greedy,Dynamic Programming
+1292,Duplicate Brackets,Stacks and Queues,Basic Data Structures
+1293,Balanced Brackets,Stacks and Queues,Basic Data Structures
+1294,Next Greater Element To The Right,Stacks and Queues,Basic Data Structures
+1295,Stock Span,Stacks and Queues,Basic Data Structures
+1296,Largest Area Histogram,Stacks and Queues,Basic Data Structures
+1297,Sliding Window Maximum,Stacks and Queues,Basic Data Structures
+1298,Infix Evaluation,Stacks and Queues,Basic Data Structures
+1299,Infix Conversions,Stacks and Queues,Basic Data Structures
+1300,Postfix Evaluation And Conversions,Stacks and Queues,Basic Data Structures
+1301,Prefix Evaluation And Conversions,Stacks and Queues,Basic Data Structures
+1302,Celebrity Problem,Stacks and Queues,Basic Data Structures
+1303,Merge Overlapping Interval,Stacks and Queues,Basic Data Structures
+1304,Smallest Number Following Pattern,Stacks and Queues,Basic Data Structures
+1305,Normal Stack,Stacks and Queues,Basic Data Structures
+1306,Dynamic Stack,Stacks and Queues,Basic Data Structures
+1309,Minimum Stack - I,Stacks and Queues,Basic Data Structures
+1325,Minimum Stack - Constant Space,Stacks and Queues,Basic Data Structures
+1307,Normal Queue,Stacks and Queues,Basic Data Structures
+1308,Dynamic Queue,Stacks and Queues,Basic Data Structures
+1333,Queue To Stack Adapter - Push Efficient,Stacks and Queues,Basic Data Structures
+1334,Queue To Stack Adapter - Pop Efficient,Stacks and Queues,Basic Data Structures
+1335,Stack To Queue Adapter - Add Efficient,Stacks and Queues,Basic Data Structures
+1336,Stack To Queue Adapter - Remove Efficient,Stacks and Queues,Basic Data Structures
+1337,Two Stacks In An Array,Stacks and Queues,Basic Data Structures
+1310,Add Last In Linked List,Linked Lists,Basic Data Structures
+1311,Display A Linkedlist,Linked Lists,Basic Data Structures
+1312,Remove First In Linkedlist,Linked Lists,Basic Data Structures
+1313,Get Value In Linked List,Linked Lists,Basic Data Structures
+1315,Add First In Linked List,Linked Lists,Basic Data Structures
+1316,Add At Index In Linked List,Linked Lists,Basic Data Structures
+1317,Remove Last In Linked List,Linked Lists,Basic Data Structures
+1318,Remove At Index In Linked List,Linked Lists,Basic Data Structures
+1319,Reverse A Linked List (data Iterative),Linked Lists,Basic Data Structures
+1320,Reverse Linked List (pointer Iterative),Linked Lists,Basic Data Structures
+1321,Linked List To Stack Adapter,Linked Lists,Basic Data Structures
+1322,Linked List To Queue Adapter,Linked Lists,Basic Data Structures
+1323,Kth Node From End Of Linked List,Linked Lists,Basic Data Structures
+1324,Mid Of Linked List,Linked Lists,Basic Data Structures
+1326,Merge Two Sorted Linked Lists,Linked Lists,Basic Data Structures
+1327,Merge Sort A Linked List,Linked Lists,Basic Data Structures
+1328,Remove Duplicates In A Sorted Linked List,Linked Lists,Basic Data Structures
+1329,Odd Even Linked List,Linked Lists,Basic Data Structures
+1330,K Reverse In Linked List,Linked Lists,Basic Data Structures
+1331,Display Reverse (recursive) - Linked List,Linked Lists,Basic Data Structures
+1332,Reverse Linked List (pointer - Recursive),Linked Lists,Basic Data Structures
+1339,Is Linked List A Palindrome?,Linked Lists,Basic Data Structures
+1340,Fold A Linked List,Linked Lists,Basic Data Structures
+1341,Add Two Linked Lists,Linked Lists,Basic Data Structures
+1342,Intersection Point Of Linked Lists,Linked Lists,Basic Data Structures
+1343,Size Of Generic Tree,Generic Tree,Basic Data Structures
+1344,Maximum In A Generic Tree,Generic Tree,Basic Data Structures
+1345,Height Of A Generic Tree,Generic Tree,Basic Data Structures
+1347,"Generic Tree - Traversals (pre-order, Post-order)",Generic Tree,Basic Data Structures
+1348,Level-order Of Generic Tree,Generic Tree,Basic Data Structures
+1349,Levelorder Linewise (generic Tree),Generic Tree,Basic Data Structures
+1350,Levelorder Linewise Zig Zag,Generic Tree,Basic Data Structures
+1351,Mirror A Generic Tree,Generic Tree,Basic Data Structures
+1352,Remove Leaves In Generic Tree,Generic Tree,Basic Data Structures
+1353,Linearize A Generic Tree,Generic Tree,Basic Data Structures
+1354,Find In Generic Tree,Generic Tree,Basic Data Structures
+1355,Node To Root Path In Generic Tree,Generic Tree,Basic Data Structures
+1356,Lowest Common Ancestor (generic Tree),Generic Tree,Basic Data Structures
+1357,Distance Between Two Nodes In A Generic Tree,Generic Tree,Basic Data Structures
+1358,Are Trees Similar In Shape,Generic Tree,Basic Data Structures
+1359,Are Trees Mirror In Shape,Generic Tree,Basic Data Structures
+1360,Is Generic Tree Symmetric,Generic Tree,Basic Data Structures
+1363,Predecessor And Successor Of An Element,Generic Tree,Basic Data Structures
+1364,Ceil And Floor In Generic Tree,Generic Tree,Basic Data Structures
+1365,Kth Largest Element In Tree,Generic Tree,Basic Data Structures
+1361,Node With Maximum Subtree Sum,Generic Tree,Basic Data Structures
+1362,Diameter Of Generic Tree,Generic Tree,Basic Data Structures
+1366,Iterative Preorder And Postorder Of Generic Tree,Generic Tree,Basic Data Structures
+1367,"Size, Sum, Maximum And Height Of A Binary Tree",Binary Tree,Basic Data Structures
+1368,Levelorder Traversal Of Binary Tree,Binary Tree,Basic Data Structures
+1369,"Iterative Pre, Post And Inorder Traversals Of Binary Tree",Binary Tree,Basic Data Structures
+1370,Find And Nodetorootpath In Binary Tree,Binary Tree,Basic Data Structures
+1371,Print K Levels Down,Binary Tree,Basic Data Structures
+1377,Print Nodes K Distance Away,Binary Tree,Basic Data Structures
+1372,Path To Leaf From Root In Range,Binary Tree,Basic Data Structures
+1373,Transform To Left-cloned Tree,Binary Tree,Basic Data Structures
+1374,Transform To Normal From Left-cloned Tree,Binary Tree,Basic Data Structures
+1375,Print Single Child Nodes,Binary Tree,Basic Data Structures
+1376,Remove Leaves In Binary Tree,Binary Tree,Basic Data Structures
+1378,Diameter Of A Binary Tree,Binary Tree,Basic Data Structures
+1379,Tilt Of Binary Tree,Binary Tree,Basic Data Structures
+1380,Is A Binary Search Tree,Binary Tree,Basic Data Structures
+1381,Is Balanced Tree,Binary Tree,Basic Data Structures
+1382,Largest Bst Subtree,Binary Tree,Basic Data Structures
+1383,"Size, Sum, Max, Min, Find In Bst",Binary Search Tree,Basic Data Structures
+1384,Add Node To Bst,Binary Search Tree,Basic Data Structures
+1385,Remove Node From Bst,Binary Search Tree,Basic Data Structures
+1386,Replace With Sum Of Larger,Binary Search Tree,Basic Data Structures
+1387,Lca Of Bst,Binary Search Tree,Basic Data Structures
+1388,Print In Range,Binary Search Tree,Basic Data Structures
+1389,Target Sum Pair In Bst,Binary Search Tree,Basic Data Structures
+1390,Highest Frequency Character,Hashmap And Heap,Advanced Data Structure
+1391,Get Common Elements - 1,Hashmap And Heap,Advanced Data Structure
+1392,Get Common Elements - 2,Hashmap And Heap,Advanced Data Structure
+1393,Longest Consecutive Sequence Of Elements,Hashmap And Heap,Advanced Data Structure
+1394,K Largest Elements,Hashmap And Heap,Advanced Data Structure
+1395,Sort K-sorted Array,Hashmap And Heap,Advanced Data Structure
+1396,Median Priority Queue,Hashmap And Heap,Advanced Data Structure
+1397,Merge K Sorted Lists,Hashmap And Heap,Advanced Data Structure
+1398,Write Priority Queue Using Heap,Hashmap And Heap,Advanced Data Structure
+1399,Write Hashmap,Hashmap And Heap,Advanced Data Structure
+1400,Has Path?,Graphs,Advanced Data Structure
+1401,Print All Paths,Graphs,Advanced Data Structure
+1402,"Multisolver - Smallest, Longest, Ceil, Floor, Kthlargest Path",Graphs,Advanced Data Structure
+1403,Get Connected Components Of A Graph,Graphs,Advanced Data Structure
+1404,Is Graph Connected,Graphs,Advanced Data Structure
+1405,Number Of Islands,Graphs,Advanced Data Structure
+1406,Perfect Friends,Graphs,Advanced Data Structure
+1407,Hamiltonian Path And Cycle,Graphs,Advanced Data Structure
+1224,Knights Tour,Graphs,Advanced Data Structure
+1410,Breadth First Traversal,Graphs,Advanced Data Structure
+1408,Is Graph Cyclic,Graphs,Advanced Data Structure
+1409,Is Graph Bipartite,Graphs,Advanced Data Structure
+1411,Spread Of Infection,Graphs,Advanced Data Structure
+1412,Shortest Path In Weights,Graphs,Advanced Data Structure
+1413,Minimum Wire Required To Connect All Pcs,Graphs,Advanced Data Structure
+1414,Order Of Compilation,Graphs,Advanced Data Structure
+1415,Iterative Depth First Traversal,Graphs,Advanced Data Structure

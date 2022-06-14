@@ -1,0 +1,120 @@
+Modules,Topics
+Module 1: Fundamentals of Programming ,
+,	1. How to utilise Appliedaicourse
+,	2. Python for Data Science Introduction
+,	3. Python for Data Science: Data Structures
+,	4. Python for Data Science: Functions
+,	5. Python for Data Science: Numpy
+,	6. Python for Data Science: Matplotlib
+,	7. Python for Data Science: Pandas
+,	8. Python for Data Science: Computational Complexity
+,	9. SQL
+,	10. Module 1: Live sessions
+Module 2: Data Science: Exploratory Data Analysis and Data Visualization ,
+,	1. Plotting for exploratory data analysis (EDA)
+,	2. Linear Algebra
+,	3. Probability and Statistics
+,	4. Interview Questions on Probability and statistics
+,	5. Dimensionality reduction and Visualization:
+,	6. PCA(principal component analysis)
+,	7. (t-SNE)T-distributed Stochastic Neighbourhood Embedding
+,	8. Interview Questions on Dimensionality Reduction
+,	9. Module 2: Live Sessions
+Module 3: Foundations of Natural Language Processing and Machine Learning ,
+,	1. Real world problem: Predict rating given product reviews on Amazon
+,	2. Classification And Regression Models: K-Nearest Neighbors
+,	3. Interview Questions on K-NN(K Nearest Neighbour)
+,	4. Classification algorithms in various situations
+,	5. Performance measurement of models
+,	6. Interview Questions on Performance Measurement Models
+,	7. Naive Bayes
+,	8. Logistic Regression
+,	9. Linear Regression
+,	10. Solving Optimization Problems
+,	11. Interview Questions on Logistic Regression and Linear Regression
+,	12. Module 3: Live Sessions
+Module 4: Machine Learning - II( Supervised Learning Models) ,
+,	1. Support Vector Machines (SVM)
+,	2. Interview Questions on Support Vector Machine
+,	3. Decision Trees
+,	4. Interview Questions on decision Trees
+,	5. Ensemble Models
+,	6. Module 4: Live Sessions
+"Module 5: Feature Engineering, Productionization and deployment of ML Models ",
+,	1. Featurization and Feature engineering.
+,	2. Miscellaneous Topics
+,	3. Module 5: Live Sessions
+Module 6: Machine Learning Real-World Case Studies ,
+,	1. Case Study 1: Quora question Pair Similarity Problem
+,	2. Case Study 2: Personalized Cancer Diagnosis
+,	3. Case Study 3:Facebook Friend Recommendation using Graph Mining
+,	4. Case study 4:Taxi demand prediction in New York City
+,	5. Case study 5: Stackoverflow tag predictor
+,	6. Case Study 6: Microsoft Malware Detection
+,	7. Module 6: Live Sessions
+Module 7: Data Mining(Unsupervised Learning) and Recommender Systems + Real-World Case Studies ,
+,	1. Unsupervised learning/Clustering
+,	2. Hierarchical clustering Technique
+,	3. DBSCAN (Density based clustering) Technique
+,	4. Recommender Systems and Matrix Factorization
+,	5. Interview Questions on Recommender Systems and Matrix Factorization.
+,	6. Case Study 8: Amazon fashion discovery engine(Content Based recommendation)
+,	7. Case Study 9:Netflix Movie Recommendation System (Collaborative based recommendation)
+,	8. High Level + End-End Design of a Music Recommendation system
+,	9. Module 7: Live Sessions
+"Module 8: Neural Networks, Computer Vision and Deep Learning ",
+,	1. Deep Learning:Neural Networks.
+,	2. Deep Learning: Deep Multi-layer perceptrons
+,	3. Deep Learning: Tensorflow and Keras.
+,	4. Deep Learning: Convolutional Neural Nets.
+,	5. Deep Learning: Long Short-term memory (LSTMs)
+,	6. Deep Learning: Generative Adversarial Networks (GANs)
+,	7. Encoder-Decoder Models
+,	8. Attention Models in Deep Learning
+,	9. Deep Learning: Transformers and BERT
+,	10. Deep Learning: Image Segmentation
+,	11. Deep Learning: Object Detection
+,"	12. Deep Learning: GPT-1, 2 and GPT-3 Models"
+,	13. OpenCV using Python
+,	14. Interview Questions on Deep Learning
+,	15. Module 8: Live Sessions
+Module 9: Deep Learning Real-World Case Studies ,
+,	1. Case Study 11: Human Activity Recognition
+,	2. Case Study 10: Self Driving Car
+,	3. Case Study 12: Music Generation using Deep-Learning
+,	4. Case Study 13: Semantic Search Engine for Q&A [Design + Code]
+,	5. Case Study 14: Building a Smart Gym Assistant from scratch
+,	6. Interview Questions
+,	7. Module 9: Live Sessions
+"Module 10:  Misc Topics: Spark for ML, Big Data, Reinforcement Learning, ML Design ",
+,	1. Machine Learning High-Level Design
+,	2. Sample Interview and Conceptual Questions [AUDIO]
+,	3. Reinforcement Learning
+,	4. Module 10: Live Sessions
+Free Videos,
+,	1. How to utilise Appliedaicourse
+,	2. Python for Data Science Introduction
+,	3. Python for Data Science: Data Structures
+,	4. Plotting for exploratory data analysis (EDA)
+,	5. Linear Algebra
+,	6. Probability and Statistics
+,	7. Dimensionality reduction and Visualization:
+,	8. PCA(principal component analysis)
+,	9. (t-SNE)T-distributed Stochastic Neighbourhood Embedding
+,	10. Case Study 1: Quora question Pair Similarity Problem
+,	11. Case Study 2: Personalized Cancer Diagnosis
+,	12. Case study 4:Taxi demand prediction in New York City
+,	13. Case study 5: Stackoverflow tag predictor
+,	14. Case Study 6: Microsoft Malware Detection
+,	15. Case Study 9:Netflix Movie Recommendation System (Collaborative based recommendation)
+,	16. OpenCV using Python
+,	17. Case Study 10: Self Driving Car
+,	18. Case Study 13: Semantic Search Engine for Q&A [Design + Code]
+,	19. Module 1: Live sessions
+,	20. Module 2: Live Sessions
+,	21. Module 7: Live Sessions
+,	22. Module 8: Live Sessions
+,	23. Module 9: Live Sessions
+,	24. Machine Learning High-Level Design
+,	25. Sample Interview and Conceptual Questions [AUDIO]
+,	26. Module 10: Live Sessions

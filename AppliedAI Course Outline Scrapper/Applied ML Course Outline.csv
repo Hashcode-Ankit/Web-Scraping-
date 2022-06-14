@@ -1,0 +1,1089 @@
+Modules,Topics,SNO,Sub Topics,Duration
+Module 1: Fundamentals of Programming ,,,,
+,How to utilise Appliedaicourse,,,
+,,1.1,How to Learn from  Appliedaicourse,35 mins
+,,1.2,How the Job Guarantee program works,16 mins
+,Python for Data Science Introduction,,,
+,,2.1,"Python, Anaconda and relevant packages installations",23 mins
+,,2.2,Why learn Python?,4 mins
+,,2.3,Keywords and identifiers,6 mins
+,,2.4,"comments, indentation and statements",9 mins
+,,2.5,Variables and data types in Python,32 mins
+,,2.6,Standard Input and Output,7 mins
+,,2.7,Operators,14 mins
+,,2.8,Control flow: if else,10 mins
+,,2.9,Control flow: while loop,16 mins
+,,2.10,Control flow: for loop,15 mins
+,,2.11,Control flow: break and continue,10 mins
+,Python for Data Science: Data Structures,,,
+,,3.1,Lists,38 mins
+,,3.2,Tuples part 1,10 mins
+,,3.3,Tuples part-2,4 mins
+,,3.4,Sets,16 mins
+,,3.5,Dictionary,21 mins
+,,3.6,Strings,16 mins
+,Python for Data Science: Functions,,,
+,,4.1,Introduction,13 mins
+,,4.2,Types of functions,25 mins
+,,4.3,Function arguments,10 mins
+,,4.4,Recursive functions,16 mins
+,,4.5,Lambda functions,8 mins
+,,4.6,Modules,7 mins
+,,4.7,Packages,6 mins
+,,4.8,File Handling,23 mins
+,,4.9,Exception Handling,15 mins
+,,4.10,Debugging Python,15 mins
+,Python for Data Science: Numpy,,,
+,,5.1,Numpy Introduction,41 mins
+,,5.2,Numerical operations on Numpy,41 mins
+,Python for Data Science: Matplotlib,,,
+,,6.1,Getting started with Matplotlib,20 mins
+,Python for Data Science: Pandas,,,
+,,7.1,Getting started with pandas,8 mins
+,,7.2,Data Frame Basics,9 mins
+,,7.3,Key Operations on Data Frames,31 mins
+,Python for Data Science: Computational Complexity,,,
+,,8.1,Space and Time Complexity: Searching for a number in a list,20 mins
+,,8.2,Binary search,17 mins
+,,8.3,Find elements common in two lists,6 mins
+,,8.4,Find elements common in two lists using a Hashtable/Dict,12 mins
+,SQL,,,
+,,9.1,Introduction to Databases,22 mins
+,,9.2,Why SQL?,15 mins
+,,9.3,Execution of an SQL statement.,7 mins
+,,9.4,IMDB dataset,12 mins
+,,9.5,Installing MySQL,11 mins
+,,9.6,Load IMDB data.,4 mins
+,,9.7,"USE, DESCRIBE, SHOW TABLES",15 mins
+,,9.8,SELECT,20 mins
+,,9.9,"LIMIT, OFFSET",10 mins
+,,9.10,ORDER BY,6 mins
+,,9.11,DISTINCT,10 mins
+,,9.12,"WHERE, Comparison operators, NULL",13 mins
+,,9.13,Logical Operators,27 mins
+,,9.14,"Aggregate Functions: COUNT, MIN, MAX, AVG, SUM",8 mins
+,,9.15,GROUP BY,13 mins
+,,9.16,HAVING,12 mins
+,,9.17,Order of keywords.,4 mins
+,,9.18,Join and Natural Join,12 mins
+,,9.19,"Inner, Left, Right and Outer joins.",23 mins
+,,9.20,Sub Queries/Nested Queries/Inner Queries,24 mins
+,,9.21,DML:INSERT,7 mins
+,,9.22,"DML:UPDATE , DELETE",6 mins
+,,9.23,DDL:CREATE TABLE,12 mins
+,,9.24,"DDL:ALTER: ADD, MODIFY, DROP",4 mins
+,,9.25,"DDL:DROP TABLE, TRUNCATE, DELETE",3 mins
+,,9.26,"Data Control Language: GRANT, REVOKE",10 mins
+,,9.27,Learning resources,3 mins
+,Module 1: Live sessions,,,
+,,10.1,Code Walkthrough: Basic programming & bug-fixing in Python (for AI),
+,,10.2,Code Walkthrough: Numerical algorithms using Python (for AI),
+,,10.3,Code Walkthrough: Numerical methods in Python (for AI) -II,
+,,10.4,Code Walkthrough: Problems in Python [ Strings and Regex ],
+,,10.5,Code Walkthrough: Problems in Python [ Strings and Regex -II],
+,,10.6,Code Walkthrough: Dynamic Programming & Python in-built data-structures,
+,,10.7,Code Walkthrough: OOP in Python (for AI)- I,
+,,10.8,Code Walkthrough: OOP in Python for AI -II,
+,,10.9,Code Walkthrough: Pandas in Python,
+,,10.10,Code Walkthrough: Pandas& NumPy- II,
+,,10.11,How to code effectively and build a web-scraper,
+,,10.12,Using Web-APIs in Python for Machine Learning,
+,,10.13,How to use Github?,
+,,10.14,Multi-Processing & Multithreading in Python for AI/ML,
+,,10.15,Parallel programming for training  and productionization of ML/AI systems [Flask & Gunicorn],
+,,10.16,SQL: Importance and Sample Problems,
+,,10.17,Interactive Interview Session on Python programming for ML/AI,
+,,10.18,Programming problems for AI/ML/DataScience,
+,,10.19,Smart data acquisition for ML and AI,
+,,10.20,MongoDB for Documents (NoSQL)- Part 1,
+,,10.21,MongoDB for Documents (NoSQL)- Part 2,
+Module 2: Data Science: Exploratory Data Analysis and Data Visualization ,,,,
+,Plotting for exploratory data analysis (EDA),,,
+,,11.1,Introduction to IRIS dataset and 2D scatter plot,26 mins
+,,11.2,3D scatter plot,6 mins
+,,11.3,Pair plots,14 mins
+,,11.4,Limitations of Pair Plots,2 mins
+,,11.5,Histogram and Introduction to PDF(Probability Density Function),17 mins
+,,11.6,Univariate Analysis using PDF,6 mins
+,,11.7,CDF(Cumulative Distribution Function),15 mins
+,,11.8,"Mean, Variance and Standard Deviation",17 mins
+,,11.9,Median,10 mins
+,,11.10,Percentiles and Quantiles,9 mins
+,,11.11,IQR(Inter Quartile Range) and MAD(Median Absolute Deviation),6 mins
+,,11.12,Box-plot with Whiskers,9 mins
+,,11.13,Violin Plots,4 mins
+,,11.14,"Summarizing Plots, Univariate, Bivariate and Multivariate analysis",6 mins
+,,11.15,"Multivariate Probability Density, Contour Plot",9 mins
+,,11.16,Assignment-1: Data Visualization with Haberman Dataset,4 mins
+,Linear Algebra,,,
+,,12.1,Why learn it ?,4 mins
+,,12.2,"Introduction to Vectors(2-D, 3-D, n-D) , Row Vector and Column Vector",14 mins
+,,12.3,Dot Product and Angle between 2 Vectors,14 mins
+,,12.4,Projection and Unit Vector,5 mins
+,,12.5,"Equation of a line (2-D), Plane(3-D) and Hyperplane (n-D), Plane Passing through origin, Normal to a Plane",23 mins
+,,12.6,"Distance of a point from a Plane/Hyperplane, Half-Spaces",10 mins
+,,12.7,"Equation of a Circle (2-D), Sphere (3-D) and Hypersphere (n-D)",7 mins
+,,12.8,"Equation of an Ellipse (2-D), Ellipsoid (3-D) and Hyperellipsoid (n-D)",6 mins
+,,12.9,"Square ,Rectangle",6 mins
+,,12.10,"Hyper Cube,Hyper Cuboid",3 mins
+,,12.11,Revision Questions,30 mins
+,Probability and Statistics,,,
+,,13.1,Introduction to Probability and Statistics,17 mins
+,,13.2,Population and Sample,7 mins
+,,13.3,Gaussian/Normal Distribution and its PDF(Probability Density Function),27 mins
+,,13.4,CDF(Cumulative Distribution function) of Gaussian/Normal distribution,11 mins
+,,13.5,"Symmetric distribution, Skewness and Kurtosis",25 mins
+,,13.6,Standard normal  variate (Z) and standardization,6 mins
+,,13.7,Kernel density estimation,7 mins
+,,13.8,Sampling distribution & Central Limit theorem,19 mins
+,,13.9,Q-Q plot:How to test if a random variable is normally distributed or not?,23 mins
+,,13.10,How  distributions are used?,17 mins
+,,13.11,Chebyshev’s inequality,20 mins
+,,13.12,Discrete and Continuous Uniform distributions,13 mins
+,,13.13,How to randomly sample data points (Uniform Distribution),10 mins
+,,13.14,Bernoulli and Binomial Distribution,11 mins
+,,13.15,Log Normal Distribution,12 mins
+,,13.16,Power law distribution,12 mins
+,,13.17,Box cox transform,12 mins
+,,13.18,Applications of non-gaussian distributions?,26 mins
+,,13.19,Co-variance,14 mins
+,,13.20,Pearson Correlation Coefficient,13 mins
+,,13.21,Spearman Rank Correlation Coefficient,7 mins
+,,13.22,Correlation vs Causation,5 mins
+,,13.23,How to use correlations?,13 mins
+,,13.24,Confidence interval (C.I) Introduction,8 mins
+,,13.25,Computing confidence interval given the underlying distribution,11 mins
+,,13.26,C.I for mean of a random variable,14 mins
+,,13.27,Confidence interval using bootstrapping,18 mins
+,,13.28,"Hypothesis testing methodology, Null-hypothesis, p-value",16 mins
+,,13.29,Hypothesis Testing Intution with coin toss example,27 mins
+,,13.30,Resampling and permutation test,15 mins
+,,13.31,K-S Test for similarity of  two distributions,15 mins
+,,13.32,Code Snippet K-S Test,6 mins
+,,13.33,Hypothesis testing: another example,18 mins
+,,13.34,Resampling and Permutation test: another example,19 mins
+,,13.35,How to use hypothesis testing?,23 mins
+,,13.36,Proportional Sampling,18 mins
+,,13.37,Revision Questions,30 mins
+,Interview Questions on Probability and statistics,,,
+,,14.1,Questions & Answers,30 mins
+,Dimensionality reduction and Visualization:,,,
+,,15.1,What is Dimensionality reduction?,3 mins
+,,15.2,Row Vector and Column Vector,5 mins
+,,15.3,How to represent a data set?,4 mins
+,,15.4,How to represent a dataset as a Matrix.,7 mins
+,,15.5,Data Preprocessing: Feature Normalisation,20 mins
+,,15.6,Mean of a data matrix,6 mins
+,,15.7,Data Preprocessing: Column Standardization,16 mins
+,,15.8,Co-variance of a Data Matrix,24 mins
+,,15.9,MNIST dataset (784 dimensional),20 mins
+,,15.10,Code to Load MNIST Data Set,12 mins
+,PCA(principal component analysis),,,
+,,16.1,Why learn PCA?,4 mins
+,,16.2,Geometric intuition of PCA,14 mins
+,,16.3,Mathematical objective function of PCA,13 mins
+,,16.4,Alternative formulation of PCA: Distance minimization,10 mins
+,,16.5,Eigen values and Eigen vectors (PCA): Dimensionality reduction,23 mins
+,,16.6,PCA for Dimensionality Reduction and Visualization,10 mins
+,,16.7,Visualize MNIST dataset,5 mins
+,,16.8,Limitations of PCA,5 mins
+,,16.9,PCA Code example,19 mins
+,,16.10,PCA for dimensionality reduction (not-visualization),15 mins
+,(t-SNE)T-distributed Stochastic Neighbourhood Embedding,,,
+,,17.1,What is t-SNE?,7 mins
+,,17.2,"Neighborhood of a point, Embedding",7 mins
+,,17.3,Geometric intuition of t-SNE,9 mins
+,,17.4,Crowding Problem,8 mins
+,,17.5,How to apply t-SNE and interpret its output,38 mins
+,,17.6,t-SNE on MNIST,7 mins
+,,17.7,Code example of t-SNE,9 mins
+,,17.8,Revision Questions,30 mins
+,Interview Questions on Dimensionality Reduction,,,
+,,18.1,Questions & Answers,30 mins
+,Module 2: Live Sessions,,,
+,,19.1,Exploratory Data Analysis,
+,,19.2,Which Plot to use when and where?,
+,,19.3,Interactive Interview Session on Data Analysis,
+,,19.4,Code Walkthrough: Seaborn module for plotting in AI/ML,
+,,19.5,Code Walkthrough: Live session on Basics of Linear Algebra for AI/ML,
+,,19.6,Hands on Probability and Stats,
+,,19.7,Code-Walkthrough: Probability and statistics- I,
+,,19.8,Code-Walkthrough: Probability and statistics-II,
+,,19.9,Q&A on Probability and Statistics,
+,,19.10,Code Walkthrough: Dimensionality Reduction for ML/AI,
+,,19.11,Tableau- Part 1,
+,,19.12,Tableau- Part 2,
+,,19.13,LIVE_ Interview Questions on Probability & Stats,
+Module 3: Foundations of Natural Language Processing and Machine Learning ,,,,
+,Real world problem: Predict rating given product reviews on Amazon,,,
+,,20.1,Dataset overview: Amazon Fine Food reviews(EDA),23 mins
+,,20.2,Data Cleaning: Deduplication,15 mins
+,,20.3,Why convert text to a vector?,14 mins
+,,20.4,Bag of Words (BoW),18 mins
+,,20.5,"Text Preprocessing: Stemming, Stop-word removal, Tokenization, Lemmatization.",15 mins
+,,20.6,"uni-gram, bi-gram, n-grams.",9 mins
+,,20.7,tf-idf (term frequency- inverse document frequency),22 mins
+,,20.8,Why use log in IDF?,14 mins
+,,20.9,Word2Vec.,16 mins
+,,20.10,"Avg-Word2Vec, tf-idf weighted Word2Vec",9 mins
+,,20.11,Bag of Words( Code Sample),19 mins
+,,20.12,Text Preprocessing( Code Sample),11 mins
+,,20.13,Bi-Grams and n-grams (Code Sample),5 mins
+,,20.14,TF-IDF (Code Sample),6 mins
+,,20.15,Word2Vec (Code Sample),12 mins
+,,20.16,Avg-Word2Vec and TFIDF-Word2Vec (Code Sample),2 mins
+,Classification And Regression Models: K-Nearest Neighbors,,,
+,,21.1,How “Classification” works?,10 mins
+,,21.2,Data matrix notation,7 mins
+,,21.3,Classification vs Regression (examples),6 mins
+,,21.4,K-Nearest Neighbours Geometric intuition with a toy example,12 mins
+,,21.5,Failure cases of KNN,7 mins
+,,21.6,"Distance measures: Euclidean(L2) , Manhattan(L1), Minkowski,  Hamming",20 mins
+,,21.7,Cosine Distance & Cosine Similarity,19 mins
+,,21.8,How to measure the effectiveness of k-NN?,16 mins
+,,21.9,Test/Evaluation time and space complexity,12 mins
+,,21.10,KNN Limitations,9 mins
+,,21.11,Decision surface for K-NN as K changes,23 mins
+,,21.12,Overfitting and Underfitting,12 mins
+,,21.13,Need for Cross validation,22 mins
+,,21.14,K-fold cross validation,18 mins
+,,21.15,"Visualizing train, validation and test datasets",13 mins
+,,21.16,How to determine overfitting and underfitting?,19 mins
+,,21.17,Time based splitting,19 mins
+,,21.18,k-NN for regression,5 mins
+,,21.19,Weighted k-NN,8 mins
+,,21.20,Voronoi diagram,4 mins
+,,21.21,Binary search tree,16 mins
+,,21.22,How to build a kd-tree,17 mins
+,,21.23,Find nearest neighbours using kd-tree,13 mins
+,,21.24,Limitations of Kd tree,9 mins
+,,21.25,Extensions,3 mins
+,,21.26,Hashing vs LSH,10 mins
+,,21.27,LSH for cosine similarity,40 mins
+,,21.28,LSH for euclidean distance,13 mins
+,,21.29,Probabilistic class label,8 mins
+,,21.30,Code Sample:Decision boundary .,23 mins
+,,21.31,Code Sample:Cross Validation,13 mins
+,,21.32,Revision Questions,30 mins
+,Interview Questions on K-NN(K Nearest Neighbour),,,
+,,22.1,Questions & Answers,30 mins
+,Classification algorithms in various situations,,,
+,,23.1,Introduction,5 mins
+,,23.2,Imbalanced vs balanced dataset,23 mins
+,,23.3,Multi-class classification,12 mins
+,,23.4,"k-NN, given a distance or similarity matrix",9 mins
+,,23.5,Train and test set differences,22 mins
+,,23.6,Impact of outliers,7 mins
+,,23.7,Local outlier Factor (Simple solution :Mean distance to Knn),13 mins
+,,23.8,k distance,4 mins
+,,23.9,"Reachability-Distance(A,B)",8 mins
+,,23.10,Local reachability-density(A),9 mins
+,,23.11,Local outlier Factor(A),21 mins
+,,23.12,Impact of Scale & Column standardization,13 mins
+,,23.13,Interpretability,12 mins
+,,23.14,Feature Importance and Forward Feature selection,22 mins
+,,23.15,Handling categorical and numerical features,24 mins
+,,23.16,Handling missing values by imputation,21 mins
+,,23.17,curse of dimensionality,27 mins
+,,23.18,Bias-Variance tradeoff,24 mins
+,,23.19,Intuitive understanding of bias-variance.,7 mins
+,,23.20,Revision Questions,30 mins
+,,23.21,best and worst case of algorithm,6 mins
+,Performance measurement of models,,,
+,,24.1,Accuracy,15 mins
+,,24.2,"Confusion matrix, TPR, FPR, FNR, TNR",25 mins
+,,24.3,"Precision and recall, F1-score",10 mins
+,,24.4,Receiver Operating Characteristic Curve (ROC) curve and AUC,19 mins
+,,24.5,Log-loss,12 mins
+,,24.6,R-Squared/Coefficient of determination,14 mins
+,,24.7,Median absolute deviation (MAD),5 mins
+,,24.8,Distribution of errors,7 mins
+,,24.9,Revision Questions,30 mins
+,Interview Questions on Performance Measurement Models,,,
+,,25.1,Questions & Answers,30 mins
+,Naive Bayes,,,
+,,26.1,Conditional probability,13 mins
+,,26.2,Independent vs Mutually exclusive events,7 mins
+,,26.3,Bayes Theorem with examples,18 mins
+,,26.4,Exercise problems on Bayes Theorem,30 mins
+,,26.5,Naive Bayes algorithm,26 mins
+,,26.6,Toy example: Train and test stages,26 mins
+,,26.7,Naive Bayes on Text data,16 mins
+,,26.8,Laplace/Additive Smoothing,24 mins
+,,26.9,Log-probabilities for numerical stability,11 mins
+,,26.10,Bias and Variance tradeoff,14 mins
+,,26.11,Feature importance and interpretability,10 mins
+,,26.12,Imbalanced data,14 mins
+,,26.13,Outliers,6 mins
+,,26.14,Missing values,3 mins
+,,26.15,Handling Numerical features (Gaussian NB),13 mins
+,,26.16,Multiclass classification,2 mins
+,,26.17,Similarity or Distance matrix,3 mins
+,,26.18,Large dimensionality,3 mins
+,,26.19,Best and worst cases,8 mins
+,,26.20,Code example,8 mins
+,,26.21,Revision Questions,
+,Logistic Regression,,,
+,,27.1,Geometric intuition of Logistic Regression,31 mins
+,,27.2,Sigmoid function: Squashing,37 mins
+,,27.3,Mathematical formulation of Objective function,24 mins
+,,27.4,Weight vector,11 mins
+,,27.5,L2 Regularization: Overfitting and Underfitting,26 mins
+,,27.6,L1 regularization and sparsity,11 mins
+,,27.7,Probabilistic Interpretation: Gaussian Naive Bayes,20 mins
+,,27.8,Loss minimization interpretation,19 mins
+,,27.9,hyperparameter Search: Grid search and random search,16 mins
+,,27.10,Column Standardization,5 mins
+,,27.11,Feature importance and Model interpretability,14 mins
+,,27.12,Collinearity of features,14 mins
+,,27.13,Train & Run time space & time complexity,11 mins
+,,27.14,Real world cases,11 mins
+,,27.15,Non-linearly separable data & feature engineering,28 mins
+,,27.16,"Code sample: Logistic regression, GridSearchCV, RandomSearchCV",23 mins
+,,27.17,Extensions to Logistic Regression: Generalized linear models(GLM),8 mins
+,Linear Regression,,,
+,,28.1,Geometric intuition of Linear Regression,13 mins
+,,28.2,Mathematical formulation,14 mins
+,,28.3,Real world Cases,8 mins
+,,28.4,Code sample for Linear Regression,13 mins
+,Solving Optimization Problems,,,
+,,29.1,Differentiation,29 mins
+,,29.2,Online differentiation tools,8 mins
+,,29.3,Maxima and Minima,12 mins
+,,29.4,Vector calculus: Grad,10 mins
+,,29.5,Gradient descent: geometric intuition,19 mins
+,,29.6,Learning rate,8 mins
+,,29.7,Gradient descent for linear regression,8 mins
+,,29.8,SGD algorithm,9 mins
+,,29.9,Constrained Optimization & PCA,14 mins
+,,29.10,Logistic regression formulation revisited,6 mins
+,,29.11,Why L1 regularization creates sparsity?,17 mins
+,,29.12,Revision questions,30 mins
+,Interview Questions on Logistic Regression and Linear Regression,,,
+,,30.1,Questions & Answers,30 mins
+,Module 3: Live Sessions,,,
+,,31.1,Code Walkthrough: Text Encodings for ML/AI,
+,,31.2,Dive deep into K-NN,
+,,31.3,Performance metrics Deep Dive,
+,,31.4,Interactive LIVE session: Logistic regression deep dive,
+,,31.5,Code Walkthrough: Optimization Methods for ML/AI,
+,,31.6,Code Walkthrough: Hyper-param Optimisation,
+,,31.7,Logistic Regression with Imbalanced data: A Geometric View,
+,,31.8,Linear Regression using Probability & Stats,
+Module 4: Machine Learning - II( Supervised Learning Models) ,,,,
+,Support Vector Machines (SVM),,,
+,,32.1,Geometric Intution,20 mins
+,,32.2,Mathematical derivation,32 mins
+,,32.3,Why we take values +1 and and -1 for Support vector planes,9 mins
+,,32.4,Loss function (Hinge Loss) based interpretation,18 mins
+,,32.5,Dual form of SVM formulation,16 mins
+,,32.6,kernel trick,10 mins
+,,32.7,Polynomial Kernel,11 mins
+,,32.8,RBF-Kernel,22 mins
+,,32.9,Domain specific Kernels,6 mins
+,,32.10,Train and run time complexities,8 mins
+,,32.11,nu-SVM: control errors and support vectors,6 mins
+,,32.12,SVM Regression,8 mins
+,,32.13,Cases,9 mins
+,,32.14,Code Sample,14 mins
+,,32.15,Revision Questions,30 mins
+,Interview Questions on Support Vector Machine,,,
+,,33.1,Questions & Answers,30 mins
+,Decision Trees,,,
+,,34.1,Geometric Intuition of decision tree: Axis parallel hyperplanes,17 mins
+,,34.2,Sample Decision tree,8 mins
+,,34.3,Building a decision Tree:Entropy,19 mins
+,,34.4,KL Divergence,14 mins
+,,34.5,Building a decision Tree:Information Gain,10 mins
+,,34.6,Building a decision Tree: Gini Impurity,7 mins
+,,34.7,Building a decision Tree: Constructing a DT,21 mins
+,,34.8,Building a decision Tree: Splitting numerical features,8 mins
+,,34.9,Feature standardization,4 mins
+,,34.10,Building a decision Tree:Categorical features with many possible values,7 mins
+,,34.11,Overfitting and Underfitting,8 mins
+,,34.12,Train and Run time complexity,7 mins
+,,34.13,Regression using Decision Trees,9 mins
+,,34.14,Cases,12 mins
+,,34.15,Code Samples,9 mins
+,,34.16,Revision Questions,30 mins
+,Interview Questions on decision Trees,,,
+,,35.1,Questions & Answers,30 mins
+,Ensemble Models,,,
+,,36.1,What are ensembles?,6 mins
+,,36.2,Bootstrapped Aggregation (Bagging) Intuition,17 mins
+,,36.3,Random Forest and their construction,15 mins
+,,36.4,Bias-Variance tradeoff,7 mins
+,,36.5,Bagging Train and run time complexity,9 mins
+,,36.6,Bagging:Code Sample,4 mins
+,,36.7,Extremely randomized trees,8 mins
+,,36.8,Random Forest :Cases,6 mins
+,,36.9,Boosting Intuition,17 mins
+,,36.10,"Residuals, Loss functions and gradients",13 mins
+,,36.11,Gradient Boosting,10 mins
+,,36.12,Regularization by Shrinkage,8 mins
+,,36.13,Train and Run time complexity,6 mins
+,,36.14,XGBoost: Boosting + Randomization,14 mins
+,,36.15,AdaBoost: geometric intuition,7 mins
+,,36.16,Stacking models,22 mins
+,,36.17,Cascading classifiers,15 mins
+,,36.18,Kaggle competitions vs Real world,9 mins
+,,36.19,Revision Questions,30 mins
+,Module 4: Live Sessions,,,
+,,37.1,Code Walkthrough: Models in Scikit-Learn,
+,,37.2,Interview Questions on  SVMs,
+,,37.3,Interview Questions on Boosting and Bagging,
+,,37.4,Attribution Models in Marketing,
+,,37.5,Attribution Models in Marketing-Part 2,
+,,37.6,LIVE_ Monte Carlo Simulations,
+"Module 5: Feature Engineering, Productionization and deployment of ML Models ",,,,
+,Featurization and Feature engineering.,,,
+,,38.1,Introduction,15 mins
+,,38.2,Moving window for Time Series Data,15 mins
+,,38.3,Fourier decomposition,22 mins
+,,38.4,Deep learning features: LSTM,8 mins
+,,38.5,Image histogram,15 mins
+,,38.6,Keypoints: SIFT.,10 mins
+,,38.7,Deep learning features: CNN,4 mins
+,,38.8,Relational data,10 mins
+,,38.9,Graph data,12 mins
+,,38.10,Indicator variables,7 mins
+,,38.11,Feature binning,14 mins
+,,38.12,Interaction variables,9 mins
+,,38.13,Mathematical transforms,4 mins
+,,38.14,Model specific featurizations,9 mins
+,,38.15,Feature orthogonality,12 mins
+,,38.16,Domain specific featurizations,4 mins
+,,38.17,Feature slicing,10 mins
+,,38.18,Kaggle Winners solutions,7 mins
+,Miscellaneous Topics,,,
+,,39.1,Calibration of Models:Need for calibration,8 mins
+,,39.2,Calibration Plots.,17 mins
+,,39.3,Platt’s Calibration/Scaling.,8 mins
+,,39.4,Isotonic Regression,11 mins
+,,39.5,Code Samples,5 mins
+,,39.6,Modeling in the presence of outliers: RANSAC,13 mins
+,,39.7,Retraining models periodically.,8 mins
+,,39.8,A/B testing.,22 mins
+,,39.9,VC dimension,22 mins
+,,39.10,Data Science Life cycle,17 mins
+,,39.11,Productionization and deployment of Machine Learning Models,17 mins
+,,39.12,Productionization and deployment + Spark,96 mins
+,,39.13,Hands on Live Session: Deploy an ML model using Flask APIs on AWS,125 mins
+,,39.14,Building web apps for ML/AI using StreamLit,101 mins
+,,39.15,Building web apps for ML/AI using StreamLit - II,66 mins
+,,39.16,ML Model productionization using Heroku,120 mins
+,,39.17,Amazon Sagemaker--Part 1,
+,,39.18,Amazon sagemaker--part 2,
+,,39.19,SageMaker Part 3: Distributed training and Deep Learning,
+,,39.20,SageMaker Part 4: Spark and Pipelines,
+,,39.21,Amazon SageMaker : Part 5 [Miscellaneous topics],1 mins
+,Module 5: Live Sessions,,,
+,,40.1,Live session on Time Series Analysis and Forecasting,
+,,40.2,Testing and Debugging ML/AI systems end to end,
+,,40.3,"Interview Questions on Productionization, Deployment",
+,,40.4,Interview Questions on Productionization and Deployment-PART II,
+,,40.5,KubeFlow: Architecture and Components,
+,,40.6,"KubeFlow: Installation, Setup and Config",
+,,40.7,"KubeFlow: Dashboard, Notebook Servers and Pipelines",
+,,40.8,"KubeFlow: Pipelines using Kale, Rok, Katib and KfServing",
+Module 6: Machine Learning Real-World Case Studies ,,,,
+,Case Study 1: Quora question Pair Similarity Problem,,,
+,,41.1,How to optimally learn from case-studies in the course?,1 mins
+,,41.2,Business/Real world problem : Problem definition,6 mins
+,,41.3,Business objectives and constraints.,5 mins
+,,41.4,Mapping to an ML problem : Data overview,5 mins
+,,41.5,Mapping to an ML problem : ML problem and performance metric.,4 mins
+,,41.6,Mapping to an ML problem : Train-test split,5 mins
+,,41.7,EDA: Basic Statistics.,7 mins
+,,41.8,EDA: Basic Feature Extraction,10 mins
+,,41.9,EDA: Text Preprocessing,6 mins
+,,41.10,EDA: Advanced Feature Extraction,31 mins
+,,41.11,EDA: Feature analysis.,9 mins
+,,41.12,EDA: Data Visualization: T-SNE.,3 mins
+,,41.13,EDA: TF-IDF weighted Word2Vec featurization.,6 mins
+,,41.14,ML Models :Loading Data,6 mins
+,,41.15,ML Models: Random Model,7 mins
+,,41.16,ML Models : Logistic Regression and Linear SVM,11 mins
+,,41.17,ML Models : XGBoost,6 mins
+,Case Study 2: Personalized Cancer Diagnosis,,,
+,,42.1,Business/Real world problem : Overview,13 mins
+,,42.2,Business objectives and constraints.,11 mins
+,,42.3,ML problem formulation :Data,5 mins
+,,42.4,ML problem formulation: Mapping real world to ML problem.,19 mins
+,,42.5,"ML problem formulation :Train, CV and Test data construction",4 mins
+,,42.6,Exploratory Data Analysis:Reading data & preprocessing,7 mins
+,,42.7,Exploratory Data Analysis:Distribution of Class-labels,7 mins
+,,42.8,Exploratory Data Analysis: “Random” Model,20 mins
+,,42.9,Univariate Analysis:Gene feature,34 mins
+,,42.10,Univariate Analysis:Variation Feature,19 mins
+,,42.11,Univariate Analysis:Text feature,15 mins
+,,42.12,Machine Learning Models:Data preparation,8 mins
+,,42.13,Baseline Model: Naive Bayes,23 mins
+,,42.14,K-Nearest Neighbors Classification,9 mins
+,,42.15,Logistic Regression with class balancing,10 mins
+,,42.16,Logistic Regression without class balancing,4 mins
+,,42.17,Linear-SVM.,6 mins
+,,42.18,Random-Forest with one-hot encoded features,7 mins
+,,42.19,Random-Forest with response-coded features,6 mins
+,,42.20,Stacking Classifier,8 mins
+,,42.21,Majority Voting classifier,5 mins
+,Case Study 3:Facebook Friend Recommendation using Graph Mining,,,
+,,43.1,Problem definition.,6 mins
+,,43.2,"Overview of Graphs: node/vertex, edge/link, directed-edge, path.",11 mins
+,,43.3,Data format & Limitations.,9 mins
+,,43.4,Mapping to a supervised classification problem.,9 mins
+,,43.5,Business constraints & Metrics.,7 mins
+,,43.6,EDA:Basic Stats,12 mins
+,,43.7,EDA:Follower and following stats.,12 mins
+,,43.8,EDA:Binary Classification Task,16 mins
+,,43.9,EDA:Train and test split.,11 mins
+,,43.10,Feature engineering on Graphs:Jaccard & Cosine Similarities,15 mins
+,,43.11,PageRank,14 mins
+,,43.12,Shortest Path,4 mins
+,,43.13,Connected-components,12 mins
+,,43.14,Adar Index,12 mins
+,,43.15,Kartz Centrality,6 mins
+,,43.16,HITS Score,10 mins
+,,43.17,SVD,11 mins
+,,43.18,Weight features,6 mins
+,,43.19,Modeling,11 mins
+,Case study 4:Taxi demand prediction in New York City,,,
+,,44.1,Business/Real world problem Overview,9 mins
+,,44.2,Objectives and Constraints,11 mins
+,,44.3,Mapping to ML problem :Data,8 mins
+,,44.4,Mapping to ML problem :dask dataframes,12 mins
+,,44.5,Mapping to ML problem :Fields/Features.,6 mins
+,,44.6,Mapping to ML problem :Time series forecasting/Regression,8 mins
+,,44.7,Mapping to ML problem :Performance metrics,6 mins
+,,44.8,Data Cleaning :Latitude and Longitude data,4 mins
+,,44.9,Data Cleaning :Trip Duration.,7 mins
+,,44.10,Data Cleaning :Speed.,5 mins
+,,44.11,Data Cleaning :Distance.,2 mins
+,,44.12,Data Cleaning :Fare,6 mins
+,,44.13,Data Cleaning :Remove all outliers/erroneous points,3 mins
+,,44.14,Data Preparation:Clustering/Segmentation,19 mins
+,,44.15,Data Preparation:Time binning,5 mins
+,,44.16,Data Preparation:Smoothing time-series data.,5 mins
+,,44.17,Data Preparation:Smoothing time-series data cont..,2 mins
+,,44.18,Data Preparation: Time series and Fourier transforms.,13 mins
+,,44.19,Ratios and previous-time-bin values,9 mins
+,,44.20,Simple moving average,8 mins
+,,44.21,Weighted Moving average.,5 mins
+,,44.22,Exponential weighted moving average,6 mins
+,,44.23,Results.,4 mins
+,,44.24,Regression models :Train-Test split & Features,8 mins
+,,44.25,Linear regression.,3 mins
+,,44.26,Random Forest regression,4 mins
+,,44.27,Xgboost Regression,2 mins
+,,44.28,Model comparison,6 mins
+,Case study 5: Stackoverflow tag predictor,,,
+,,45.1,Business/Real world problem,10 mins
+,,45.2,Business objectives and constraints,5 mins
+,,45.3,Mapping to an ML problem: Data overview,4 mins
+,,45.4,Mapping to an ML problem:ML problem formulation.,5 mins
+,,45.5,Mapping to an ML problem:Performance metrics.,21 mins
+,,45.6,Hamming loss,7 mins
+,,45.7,EDA:Data Loading,13 mins
+,,45.8,EDA:Analysis of tags,11 mins
+,,45.9,EDA:Data Preprocessing,11 mins
+,,45.10,Data Modeling : Multi label Classification,18 mins
+,,45.11,Data preparation.,8 mins
+,,45.12,Train-Test Split,2 mins
+,,45.13,Featurization,6 mins
+,,45.14,Logistic regression: One VS Rest,7 mins
+,,45.15,Sampling data and tags+Weighted models.,4 mins
+,,45.16,Logistic regression revisited,4 mins
+,,45.17,Why not use advanced techniques,3 mins
+,Case Study 6: Microsoft Malware Detection,,,
+,,46.1,Business/real world problem :Problem definition,6 mins
+,,46.2,Business/real world problem :Objectives and constraints,7 mins
+,,46.3,Machine Learning problem mapping :Data overview.,13 mins
+,,46.4,Machine Learning problem mapping :ML problem,12 mins
+,,46.5,Machine Learning problem mapping :Train and test splitting,4 mins
+,,46.6,Exploratory Data Analysis :Class distribution.,3 mins
+,,46.7,Exploratory Data Analysis :Feature extraction from byte files,8 mins
+,,46.8,Exploratory Data Analysis :Multivariate analysis of features from byte files,3 mins
+,,46.9,Exploratory Data Analysis :Train-Test class distribution,2 mins
+,,46.10,ML models - using byte files only :Random Model,11 mins
+,,46.11,k-NN,7 mins
+,,46.12,Logistic regression,5 mins
+,,46.13,Random Forest and Xgboost,7 mins
+,,46.14,ASM Files :Feature extraction & Multiprocessing.,11 mins
+,,46.15,File-size feature,2 mins
+,,46.16,Univariate analysis,3 mins
+,,46.17,t-SNE analysis.,2 mins
+,,46.18,ML models on ASM file features,8 mins
+,,46.19,Models on all features :t-SNE,2 mins
+,,46.20,Models on all features :RandomForest and Xgboost,4 mins
+,Module 6: Live Sessions,,,
+,,47.1,Case Study 7: LIVE session on Ad Click Prediction,
+,,47.2,Case Study 7: Live Session: Ad-Click Prediction (contd.) and Performance metrics,
+,,47.3,Productionization of real-world ML systems,
+Module 7: Data Mining(Unsupervised Learning) and Recommender Systems + Real-World Case Studies ,,,,
+,Unsupervised learning/Clustering,,,
+,,48.1,What is Clustering?,10 mins
+,,48.2,Unsupervised learning,4 mins
+,,48.3,Applications,16 mins
+,,48.4,Metrics for Clustering,19 mins
+,,48.5,"K-Means: Geometric intuition, Centroids",8 mins
+,,48.6,K-Means: Mathematical formulation: Objective function,11 mins
+,,48.7,K-Means Algorithm.,11 mins
+,,48.8,How to initialize: K-Means++,25 mins
+,,48.9,Failure cases/Limitations,11 mins
+,,48.10,K-Medoids,19 mins
+,,48.11,Determining the right K,5 mins
+,,48.12,Code Samples,7 mins
+,,48.13,Time and space complexity,4 mins
+,Hierarchical clustering Technique,,,
+,,49.1,"Agglomerative & Divisive, Dendrograms",14 mins
+,,49.2,Agglomerative Clustering,9 mins
+,,49.3,Proximity methods: Advantages and Limitations.,24 mins
+,,49.4,Time and Space Complexity,4 mins
+,,49.5,Limitations of Hierarchical Clustering,5 mins
+,,49.6,Code sample,3 mins
+,DBSCAN (Density based clustering) Technique,,,
+,,50.1,Density based clustering,5 mins
+,,50.2,MinPts and Eps: Density,6 mins
+,,50.3,"Core, Border and Noise points",7 mins
+,,50.4,Density edge and Density connected points.,6 mins
+,,50.5,DBSCAN Algorithm,11 mins
+,,50.6,Hyper Parameters: MinPts and EpsA,10 mins
+,,50.7,Advantages and Limitations of DBSCAN,9 mins
+,,50.8,Time and Space Complexity,3 mins
+,,50.9,Code samples.,3 mins
+,,50.10,Revision Questions,30 mins
+,Recommender Systems and Matrix Factorization,,,
+,,51.1,Problem formulation: Movie reviews,23 mins
+,,51.2,Content based vs Collaborative Filtering,11 mins
+,,51.3,Similarity based Algorithms,16 mins
+,,51.4,"Matrix Factorization: PCA, SVD",23 mins
+,,51.5,Matrix Factorization: NMF,3 mins
+,,51.6,Matrix Factorization for Collaborative filtering,23 mins
+,,51.7,Matrix Factorization for feature engineering,9 mins
+,,51.8,Clustering as MF,21 mins
+,,51.9,Hyperparameter tuning,10 mins
+,,51.10,Matrix Factorization for recommender systems: Netflix Prize Solution,31 mins
+,,51.11,Cold Start problem,6 mins
+,,51.12,Word vectors as MF,20 mins
+,,51.13,Eigen-Faces,15 mins
+,,51.14,Code example.,11 mins
+,,51.15,Revision Questions,30 mins
+,Interview Questions on Recommender Systems and Matrix Factorization.,,,
+,,52.1,Questions & Answers,30 mins
+,Case Study 8: Amazon fashion discovery engine(Content Based recommendation),,,
+,,53.1,Problem Statement: Recommend similar apparel products in e-commerce using product descriptions and Images,12 mins
+,,53.2,Plan of action,7 mins
+,,53.3,Amazon product advertising API,4 mins
+,,53.4,Data folders and paths,6 mins
+,,53.5,Overview of the data and Terminology,12 mins
+,,53.6,Data cleaning and understanding:Missing data in various features,22 mins
+,,53.7,Understand duplicate rows,9 mins
+,,53.8,Remove duplicates : Part 1,12 mins
+,,53.9,Remove duplicates: Part 2,15 mins
+,,53.10,Text Pre-Processing: Tokenization and Stop-word removal,10 mins
+,,53.11,Stemming,4 mins
+,,53.12,Text based product similarity :Converting text to an n-D vector: bag of words,14 mins
+,,53.13,Code for bag of words based product similarity,26 mins
+,,53.14,TF-IDF: featurizing text based on word-importance,17 mins
+,,53.15,Code for TF-IDF based product similarity,10 mins
+,,53.16,Code for IDF based product similarity,9 mins
+,,53.17,Text Semantics based product similarity: Word2Vec(featurizing text based on semantic similarity),19 mins
+,,53.18,Code for Average Word2Vec product similarity,15 mins
+,,53.19,TF-IDF weighted Word2Vec,9 mins
+,,53.20,Code for IDF weighted Word2Vec product similarity,6 mins
+,,53.21,Weighted similarity using brand and color,9 mins
+,,53.22,Code for weighted similarity,7 mins
+,,53.23,Building a real world solution,5 mins
+,,53.24,"Deep learning based visual product similarity:ConvNets: How to featurize an image: edges, shapes, parts",11 mins
+,,53.25,Using Keras + Tensorflow to extract features,8 mins
+,,53.26,Visual similarity based product similarity,6 mins
+,,53.27,Measuring goodness of our solution :A/B testing,7 mins
+,,53.28,Assignment-24: Apparel Recommendation,6 mins
+,Case Study 9:Netflix Movie Recommendation System (Collaborative based recommendation),,,
+,,54.1,Business/Real world problem:Problem definition,6 mins
+,,54.2,Objectives and constraints,7 mins
+,,54.3,Mapping to an ML problem:Data overview.,4 mins
+,,54.4,Mapping to an ML problem:ML problem formulation,5 mins
+,,54.5,Exploratory Data Analysis:Data preprocessing,7 mins
+,,54.6,Exploratory Data Analysis:Temporal Train-Test split.,6 mins
+,,54.7,Exploratory Data Analysis:Preliminary data analysis.,15 mins
+,,54.8,Exploratory Data Analysis:Sparse matrix representation,8 mins
+,,54.9,Exploratory Data Analysis:Average ratings for various slices,7 mins
+,,54.10,Exploratory Data Analysis:Cold start problem,5 mins
+,,54.11,Computing Similarity matrices:User-User similarity matrix,20 mins
+,,54.12,Computing Similarity matrices:Movie-Movie similarity,6 mins
+,,54.13,Computing Similarity matrices:Does movie-movie similarity work?,6 mins
+,,54.14,ML Models:Surprise library,6 mins
+,,54.15,Overview of the modelling strategy.,8 mins
+,,54.16,Data Sampling.,5 mins
+,,54.17,Google drive with intermediate files,2 mins
+,,54.18,Featurizations for regression.,11 mins
+,,54.19,Data transformation for Surprise.,2 mins
+,,54.20,Xgboost with 13 features,6 mins
+,,54.21,Surprise Baseline model.,9 mins
+,,54.22,Xgboost + 13 features +Surprise baseline model,4 mins
+,,54.23,Surprise KNN predictors,15 mins
+,,54.24,Matrix Factorization models using Surprise,5 mins
+,,54.25,SVD ++ with implicit feedback,11 mins
+,,54.26,Final models with all features and predictors.,4 mins
+,,54.27,Comparison between various models.,4 mins
+,,54.28,Assignment-18: Netflix prize,5 mins
+,High Level + End-End Design of a Music Recommendation system,,,
+,,55.1,High Level + End-End Design of a Music Recommendation system - I,
+,,55.2,High Level + End-End Design of a Music Recommendation system - II,
+,Module 7: Live Sessions,,,
+,,56.1,Building a simple Youtube recommendation using basic Math,
+,,56.2,Interview Questions on Clustering and Matrix Factorization,
+"Module 8: Neural Networks, Computer Vision and Deep Learning ",,,,
+,Deep Learning:Neural Networks.,,,
+,,57.1,History of Neural networks and Deep Learning.,25 mins
+,,57.2,How Biological Neurons work?,8 mins
+,,57.3,Growth of biological neural networks,17 mins
+,,57.4,Diagrammatic representation: Logistic Regression and Perceptron,17 mins
+,,57.5,Multi-Layered Perceptron (MLP).,23 mins
+,,57.6,Notation,18 mins
+,,57.7,Training a single-neuron model.,28 mins
+,,57.8,Training an MLP: Chain Rule,40 mins
+,,57.9,Training an MLP:Memoization,14 mins
+,,57.10,Backpropagation.,26 mins
+,,57.11,Activation functions,17 mins
+,,57.12,Vanishing Gradient problem.,23 mins
+,,57.13,Bias-Variance tradeoff.,10 mins
+,,57.14,Decision surfaces: Playground,15 mins
+,,57.15,Interview Questions,30 mins
+,Deep Learning: Deep Multi-layer perceptrons,,,
+,,58.1,Deep Multi-layer perceptrons:1980s to 2010s,16 mins
+,,58.2,Dropout layers & Regularization.,21 mins
+,,58.3,Rectified Linear Units (ReLU).,28 mins
+,,58.4,Weight initialization.,24 mins
+,,58.5,Batch Normalization.,21 mins
+,,58.6,Optimizers:Hill-descent analogy in 2D,19 mins
+,,58.7,Optimizers:Hill descent in 3D and contours.,13 mins
+,,58.8,SGD Recap,18 mins
+,,58.9,Batch SGD with momentum.,25 mins
+,,58.10,Nesterov Accelerated Gradient (NAG),8 mins
+,,58.11,Optimizers:AdaGrad,15 mins
+,,58.12,Optimizers : Adadelta andRMSProp,10 mins
+,,58.13,Adam,11 mins
+,,58.14,Which algorithm to choose when?,5 mins
+,,58.15,Gradient Checking and clipping,10 mins
+,,58.16,Softmax and Cross-entropy for multi-class classification.,25 mins
+,,58.17,How to train a Deep MLP?,8 mins
+,,58.18,Auto Encoders.,27 mins
+,,58.19,Word2Vec :CBOW,19 mins
+,,58.20,Word2Vec: Skip-gram,14 mins
+,,58.21,Word2Vec :Algorithmic Optimizations.,12 mins
+,Deep Learning: Tensorflow and Keras.,,,
+,,59.1,Tensorflow and Keras overview,23 mins
+,,59.2,GPU vs CPU for Deep Learning.,23 mins
+,,59.3,Google Colaboratory.,5 mins
+,,59.4,Install TensorFlow,6 mins
+,,59.5,Online documentation and tutorials,6 mins
+,,59.6,Softmax Classifier on MNIST dataset.,32 mins
+,,59.7,MLP: Initialization,11 mins
+,,59.8,Model 1: Sigmoid activation,22 mins
+,,59.9,Model 2: ReLU activation.,6 mins
+,,59.10,Model 3: Batch Normalization.,8 mins
+,,59.11,Model 4 : Dropout.,5 mins
+,,59.12,MNIST classification in Keras.,18 mins
+,,59.13,Hyperparameter tuning in Keras.,11 mins
+,Deep Learning: Convolutional Neural Nets.,,,
+,,60.1,Biological inspiration: Visual Cortex,18 mins
+,,60.2,Convolution:Edge Detection on images.,28 mins
+,,60.3,Convolution:Padding and strides,19 mins
+,,60.4,Convolution over RGB images.,11 mins
+,,60.5,Convolutional layer.,23 mins
+,,60.6,Max-pooling.,12 mins
+,,60.7,CNN Training: Optimization,9 mins
+,,60.8,Receptive Fields and Effective Receptive Fields,8 mins
+,,60.9,Example CNN: LeNet [1998],10 mins
+,,60.10,ImageNet dataset.,6 mins
+,,60.11,Data Augmentation.,8 mins
+,,60.12,Convolution Layers in Keras,17 mins
+,,60.13,AlexNet,13 mins
+,,60.14,VGGNet,11 mins
+,,60.15,Residual Network.,22 mins
+,,60.16,Inception Network.,19 mins
+,,60.17,What is Transfer learning.,23 mins
+,,60.18,Code example: Cats vs Dogs.,15 mins
+,,60.19,Code Example: MNIST dataset.,6 mins
+,,60.20,[Interview Question] How to build a face recognition system?,1 mins
+,Deep Learning: Long Short-term memory (LSTMs),,,
+,,61.1,Why RNNs?,23 mins
+,,61.2,Recurrent Neural Network.,29 mins
+,,61.3,Training RNNs: Backprop.,16 mins
+,,61.4,Types of RNNs.,14 mins
+,,61.5,Need for LSTM/GRU.,10 mins
+,,61.6,LSTM.,35 mins
+,,61.7,GRUs.,7 mins
+,,61.8,Deep RNN.,7 mins
+,,61.9,Bidirectional RNN.,12 mins
+,,61.10,Code example : IMDB Sentiment classification,33 mins
+,Deep Learning: Generative Adversarial Networks (GANs),,,
+,,62.1,Live session on Generative Adversarial Networks (GAN),124 mins
+,Encoder-Decoder Models,,,
+,,63.1,LIVE: Encoder-Decoder Models,82 mins
+,Attention Models in Deep Learning,,,
+,,64.1,Attention Models in Deep Learning,84 mins
+,Deep Learning: Transformers and BERT,,,
+,,65.1,Transformers and BERT,112 mins
+,Deep Learning: Image Segmentation,,,
+,,66.1,Live session on Image Segmentation,95 mins
+,Deep Learning: Object Detection,,,
+,,67.1,Object Detection,123 mins
+,,67.2,Object Detection YOLO V3,103 mins
+,"Deep Learning: GPT-1, 2 and GPT-3 Models",,,
+,,68.1,"GPT-1, 2 and GPT-3 Models",130 mins
+,OpenCV using Python,,,
+,,69.1,Code Walkthrough (OpenCV using Python),
+,,69.2,Design and build a Smart Store,
+,Interview Questions on Deep Learning,,,
+,,70.1,Questions and Answers,30 mins
+,Module 8: Live Sessions,,,
+,,71.1,Code Walkthrough: Tensorflow 2.0 + Keras,
+,,71.2,Code Walkthrough: Tensorflow 2.0 + Keras --II,
+,,71.3,Code Walkthrough: DC-GANs and Gradient Tape,
+,,71.4,Code Walkthrough: Time Series forecasting using LSTMs/GRUs,
+,,71.5,Code Walkthrough Live Session: BERT and Fine-Tuning,
+,,71.6,Code Walkthrough: BERT- QuestionAnswering System,
+,,71.7,Code-Walkthrough: Transformers from scratch-I,
+,,71.8,Code-Walkthrough: Transformers from scratch-II,
+,,71.9,LIVE: Problem solving [Classification Algorithms],
+,,71.10,Vision Transformers [from ICLR 2021],
+,,71.11,"Interview Questions on Deep Learning (NN, MLP, CNNs)",
+,,71.12,Interactive Interview Questions(from top product based companies),
+,,71.13,Scenario based interview questions in AI/ML/DataScience,
+,,71.14,LIVE : Explainable AI [ LIME & SHAP ],
+,,71.15,LIVE_ Explainable AI [ SHAP ],
+,,71.16,Cutting-edge Recommender system for travel-booking by NVIDIA Engineers,
+Module 9: Deep Learning Real-World Case Studies ,,,,
+,Case Study 11: Human Activity Recognition,,,
+,,72.1,Human Activity Recognition Problem definition,9 mins
+,,72.2,Dataset understanding,22 mins
+,,72.3,Data cleaning & preprocessing,4 mins
+,,72.4,EDA:Univariate analysis.,5 mins
+,,72.5,EDA:Data visualization using t-SNE,5 mins
+,,72.6,Classical ML models.,13 mins
+,,72.7,Deep-learning Model.,15 mins
+,Case Study 10: Self Driving Car,,,
+,,73.1,Self Driving Car :Problem definition.,14 mins
+,,73.2,Datasets.,9 mins
+,,73.3,Data understanding & Analysis :Files and folders.,5 mins
+,,73.4,Dash-cam images and steering angles.,6 mins
+,,73.5,Split the dataset: Train vs Test,3 mins
+,,73.6,EDA: Steering angles,6 mins
+,,73.7,Mean Baseline model: simple,5 mins
+,,73.8,"Deep-learning model:Deep Learning for regression: CNN, CNN+RNN",10 mins
+,,73.9,Batch load the dataset.,6 mins
+,,73.10,NVIDIA’s end to end  CNN model.,18 mins
+,,73.11,Train the model.,13 mins
+,,73.12,Test and visualize the output.,11 mins
+,,73.13,Extensions.,5 mins
+,Case Study 12: Music Generation using Deep-Learning,,,
+,,74.1,Real-world problem,15 mins
+,,74.2,Music representation,18 mins
+,,74.3,Char-RNN  with abc-notation :Char-RNN model,23 mins
+,,74.4,Char-RNN  with abc-notation :Data preparation.,41 mins
+,,74.5,"Char-RNN  with abc-notation:Many to Many RNN ,TimeDistributed-Dense layer",18 mins
+,,74.6,Char-RNN  with abc-notation : State full RNN,12 mins
+,,74.7,"Char-RNN  with abc-notation :Model architecture,Model training.",13 mins
+,,74.8,Char-RNN  with abc-notation :Music generation.,11 mins
+,,74.9,Char-RNN  with abc-notation :Generate tabla music,3 mins
+,,74.10,MIDI music generation.,4 mins
+,,74.11,Survey blog:,5 mins
+,Case Study 13: Semantic Search Engine for Q&A [Design + Code],,,
+,,75.1,High Level Design of the Solution,
+,,75.2,Sentence Vectors and Docker Containerisation,
+,,75.3,Indexing using ElasticSearch,
+,,75.4,"Deployment using Flask APIs, Docker and ElasticSearch",
+,Case Study 14: Building a Smart Gym Assistant from scratch,,,
+,,76.1,Building a Smart Gym Assistant from scratch- Part 1,130 mins
+,,76.2,Building a Smart Gym Assistant from scratch- Part II,121 mins
+,Interview Questions,,,
+,,77.1,Revision Questions,30 mins
+,,77.2,External resources for Interview Questions,30 mins
+,Module 9: Live Sessions,,,
+,,78.1,High-level design of a self driving system,
+,,78.2,Music Recommendation System,
+,,78.3,Speaker identification using audio + Siamese Networks,
+,,78.4,"Data Quality and Verification @ Uber, Netflix and Amazon",
+,,78.5,"Data Quality and Verification @ Uber, Netflix and Amazon -- Part-2",
+"Module 10:  Misc Topics: Spark for ML, Big Data, Reinforcement Learning, ML Design ",,,,
+,Machine Learning High-Level Design,,,
+,,79.1,Machine Learning design: Search engine for Q&A,
+,,79.2,ML System Design: Feature Store,31 mins
+,Sample Interview and Conceptual Questions [AUDIO],,,
+,,80.1,Sample Interview and Conceptual Questions [AUDIO],
+,Reinforcement Learning,,,
+,,81.1,Applications of RL,10 mins
+,,81.2,Problem Forumulation & Terminology,8 mins
+,,81.3,Bellman Equation,20 mins
+,,81.4,Dynamic Programming and RL,11 mins
+,,81.5,Markov Decision Process (MDP),12 mins
+,,81.6,Q-function,7 mins
+,,81.7,Temporal Difference,11 mins
+,,81.8,Deep Q Learning: Intuition,5 mins
+,,81.9,Q&A,37 mins
+,Module 10: Live Sessions,,,
+,,82.1,"An overview of AI Algorithms ( a 10,000 feet view)",
+,,82.2,Introduction to Big data for ML and AI,
+,,82.3,Big-Data & Cloud Storage for ML/AI Applications,
+,,82.4,Spark for Data Science and Machine Learning [Architecture and Programming model]- I,
+,,82.5,Spark for Data Science and Machine Learning [Setup  + Code walkthroughs]-II,
+,,82.6,Spark for Data Science and Machine Learning [ML Lib and ML Pipelines]-III,
+,,82.7,How to Build a Chatbot?,
+,,82.8,Design and build a Chatbot from Scratch,
+,,82.9,Design and build a Chatbot from Scratch-Part 2,
+,,82.10,How to build IoT + AI systems,
+,,82.11,LIVE: How to Crack ML Competitions,
+,,82.12,Live: Effective communication for DS and MLEs,
+,,82.13,Sample Interview and Conceptual Questions [AUDIO],
+,,82.14,Various roles in an ML/DataScience team,13 mins
+,,82.15,Client management for AI Projects,11 mins
+Free Videos,,,,
+,How to utilise Appliedaicourse,,,
+,,1.1,How to Learn from  Appliedaicourse,35 mins--
+,Python for Data Science Introduction,,,
+,,2.1,"Python, Anaconda and relevant packages installations",23 mins--
+,,2.2,Why learn Python?,4 mins--
+,,2.3,Keywords and identifiers,6 mins--
+,,2.4,"comments, indentation and statements",9 mins--
+,,2.5,Variables and data types in Python,32 mins--
+,,2.6,Standard Input and Output,7 mins--
+,,2.7,Operators,14 mins--
+,,2.8,Control flow: if else,10 mins--
+,,2.9,Control flow: while loop,16 mins--
+,,2.10,Control flow: for loop,15 mins--
+,,2.11,Control flow: break and continue,10 mins--
+,Python for Data Science: Data Structures,,,
+,,3.1,Lists,38 mins--
+,,3.2,Tuples part 1,10 mins--
+,,3.3,Tuples part-2,4 mins--
+,,3.4,Sets,16 mins--
+,,3.5,Dictionary,21 mins--
+,,3.6,Strings,16 mins--
+,Plotting for exploratory data analysis (EDA),,,
+,,4.1,Introduction to IRIS dataset and 2D scatter plot,26 mins--
+,,4.2,3D scatter plot,6 mins--
+,,4.3,Pair plots,14 mins--
+,,4.4,Limitations of Pair Plots,2 mins--
+,,4.5,Histogram and Introduction to PDF(Probability Density Function),17 mins--
+,,4.6,Univariate Analysis using PDF,6 mins--
+,,4.7,CDF(Cumulative Distribution Function),15 mins--
+,,4.8,"Mean, Variance and Standard Deviation",17 mins--
+,,4.9,Median,10 mins--
+,,4.10,Percentiles and Quantiles,9 mins--
+,,4.11,IQR(Inter Quartile Range) and MAD(Median Absolute Deviation),6 mins--
+,,4.12,Box-plot with Whiskers,9 mins--
+,,4.13,Violin Plots,4 mins--
+,,4.14,"Summarizing Plots, Univariate, Bivariate and Multivariate analysis",6 mins--
+,,4.15,"Multivariate Probability Density, Contour Plot",9 mins--
+,,4.16,Assignment-1: Data Visualization with Haberman Dataset,4 mins--
+,Linear Algebra,,,
+,,5.1,Why learn it ?,4 mins--
+,,5.2,"Introduction to Vectors(2-D, 3-D, n-D) , Row Vector and Column Vector",14 mins--
+,,5.3,Dot Product and Angle between 2 Vectors,14 mins--
+,,5.4,Projection and Unit Vector,5 mins--
+,,5.5,"Equation of a line (2-D), Plane(3-D) and Hyperplane (n-D), Plane Passing through origin, Normal to a Plane",23 mins--
+,,5.6,"Distance of a point from a Plane/Hyperplane, Half-Spaces",10 mins--
+,,5.7,"Equation of a Circle (2-D), Sphere (3-D) and Hypersphere (n-D)",7 mins--
+,,5.8,"Equation of an Ellipse (2-D), Ellipsoid (3-D) and Hyperellipsoid (n-D)",6 mins--
+,,5.9,"Square ,Rectangle",6 mins--
+,,5.10,"Hyper Cube,Hyper Cuboid",3 mins--
+,Probability and Statistics,,,
+,,6.1,Introduction to Probability and Statistics,17 mins--
+,,6.2,Population and Sample,7 mins--
+,,6.3,Gaussian/Normal Distribution and its PDF(Probability Density Function),27 mins--
+,,6.4,CDF(Cumulative Distribution function) of Gaussian/Normal distribution,11 mins--
+,Dimensionality reduction and Visualization:,,,
+,,7.1,What is Dimensionality reduction?,3 mins--
+,,7.2,Row Vector and Column Vector,5 mins--
+,,7.3,How to represent a data set?,4 mins--
+,,7.4,How to represent a dataset as a Matrix.,7 mins--
+,,7.5,Data Preprocessing: Feature Normalisation,20 mins--
+,,7.6,Mean of a data matrix,6 mins--
+,,7.7,Data Preprocessing: Column Standardization,16 mins--
+,,7.8,Co-variance of a Data Matrix,24 mins--
+,,7.9,MNIST dataset (784 dimensional),20 mins--
+,,7.10,Code to Load MNIST Data Set,12 mins--
+,PCA(principal component analysis),,,
+,,8.1,Why learn PCA?,4 mins--
+,,8.2,Geometric intuition of PCA,14 mins--
+,,8.3,Mathematical objective function of PCA,13 mins--
+,,8.4,Alternative formulation of PCA: Distance minimization,10 mins--
+,,8.5,Eigen values and Eigen vectors (PCA): Dimensionality reduction,23 mins--
+,,8.6,PCA for Dimensionality Reduction and Visualization,10 mins--
+,,8.7,Visualize MNIST dataset,5 mins--
+,,8.8,Limitations of PCA,5 mins--
+,,8.9,PCA Code example,19 mins--
+,,8.10,PCA for dimensionality reduction (not-visualization),15 mins--
+,(t-SNE)T-distributed Stochastic Neighbourhood Embedding,,,
+,,9.1,What is t-SNE?,7 mins--
+,,9.2,"Neighborhood of a point, Embedding",7 mins--
+,,9.3,Geometric intuition of t-SNE,9 mins--
+,,9.4,Crowding Problem,8 mins--
+,,9.5,How to apply t-SNE and interpret its output,38 mins--
+,,9.6,t-SNE on MNIST,7 mins--
+,,9.7,Code example of t-SNE,9 mins--
+,Case Study 1: Quora question Pair Similarity Problem,,,
+,,10.1,Business/Real world problem : Problem definition,6 mins--
+,Case Study 2: Personalized Cancer Diagnosis,,,
+,,11.1,Business/Real world problem : Overview,13 mins--
+,Case study 4:Taxi demand prediction in New York City,,,
+,,12.1,Business/Real world problem Overview,9 mins--
+,,12.2,Mapping to ML problem :Fields/Features.,6 mins--
+,Case study 5: Stackoverflow tag predictor,,,
+,,13.1,Business/Real world problem,10 mins--
+,Case Study 6: Microsoft Malware Detection,,,
+,,14.1,Business/real world problem :Problem definition,6 mins--
+,Case Study 9:Netflix Movie Recommendation System (Collaborative based recommendation),,,
+,,15.1,Business/Real world problem:Problem definition,6 mins--
+,OpenCV using Python,,,
+,,16.1,Code Walkthrough (OpenCV using Python),--
+,Case Study 10: Self Driving Car,,,
+,,17.1,Self Driving Car :Problem definition.,14 mins--
+,Case Study 13: Semantic Search Engine for Q&A [Design + Code],,,
+,,18.1,High Level Design of the Solution,--
+,,18.2,Sentence Vectors and Docker Containerisation,--
+,,18.3,Indexing using ElasticSearch,--
+,,18.4,"Deployment using Flask APIs, Docker and ElasticSearch",--
+,Module 1: Live sessions,,,
+,,19.1,Code Walkthrough: Basic programming & bug-fixing in Python (for AI),--
+,,19.2,Code Walkthrough: Numerical algorithms using Python (for AI),--
+,,19.3,Code Walkthrough: Numerical methods in Python (for AI) -II,--
+,,19.4,Code Walkthrough: Problems in Python [ Strings and Regex ],--
+,,19.5,Code Walkthrough: Problems in Python [ Strings and Regex -II],--
+,,19.6,Code Walkthrough: Dynamic Programming & Python in-built data-structures,--
+,,19.7,Code Walkthrough: OOP in Python (for AI)- I,--
+,,19.8,Code Walkthrough: OOP in Python for AI -II,--
+,,19.9,How to code effectively and build a web-scraper,--
+,,19.10,Using Web-APIs in Python for Machine Learning,--
+,,19.11,How to use Github?,--
+,,19.12,Multi-Processing & Multithreading in Python for AI/ML,--
+,,19.13,Parallel programming for training  and productionization of ML/AI systems [Flask & Gunicorn],--
+,,19.14,SQL: Importance and Sample Problems,--
+,,19.15,Interactive Interview Session on Python programming for ML/AI,--
+,,19.16,Smart data acquisition for ML and AI,--
+,Module 2: Live Sessions,,,
+,,20.1,Code Walkthrough: Live session on Basics of Linear Algebra for AI/ML,--
+,,20.2,Code Walkthrough: Dimensionality Reduction for ML/AI,--
+,Module 7: Live Sessions,,,
+,,21.1,Building a simple Youtube recommendation using basic Math,--
+,Module 8: Live Sessions,,,
+,,22.1,Interactive Interview Questions(from top product based companies),--
+,,22.2,Scenario based interview questions in AI/ML/DataScience,--
+,Module 9: Live Sessions,,,
+,,23.1,High-level design of a self driving system,--
+,Machine Learning High-Level Design,,,
+,,24.1,Machine Learning design: Search engine for Q&A,--
+,,24.2,ML System Design: Feature Store,31 mins--
+,Sample Interview and Conceptual Questions [AUDIO],,,
+,,25.1,Sample Interview and Conceptual Questions [AUDIO],--
+,Module 10: Live Sessions,,,
+,,26.1,"An overview of AI Algorithms ( a 10,000 feet view)",--
+,,26.2,Big-Data & Cloud Storage for ML/AI Applications,--
+,,26.3,Spark for Data Science and Machine Learning [Architecture and Programming model]- I,--
+,,26.4,Design and build a Chatbot from Scratch,--
+,,26.5,Design and build a Chatbot from Scratch-Part 2,--
+,,26.6,How to build IoT + AI systems,--
+,,26.7,Sample Interview and Conceptual Questions [AUDIO],--

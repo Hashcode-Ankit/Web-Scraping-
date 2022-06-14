@@ -1,0 +1,1042 @@
+Question
+Print Z In Java
+Variables In Java
+Conditionals
+Grading System
+Loops
+Increment Operators
+Take Input
+Is A Number Prime
+Print All Primes Till N
+Print Fibonacci Numbers Till N 
+Count Digits In A Number 
+Digits Of A Number 
+Reverse A Number 
+Inverse Of A Number 
+Rotate A Number 
+Gcd And Lcm 
+Prime Factorization Of A Number
+Pythagorean Triplet
+The Curious Case Of Benjamin Bulbs
+Inverse Of A Number - Left To Right
+Pattern 1
+Pattern 2
+Pattern 3
+Pattern 4
+Pattern 5
+Pattern 6
+Pattern 7
+Pattern 8
+Pattern 9
+Pattern 10
+Pattern 11
+Pattern 12
+Pattern 13
+Pattern 14
+Pattern 15
+Pattern 16
+Pattern 17
+Pattern 18
+Pattern 19
+Pattern 20
+Pattern M
+Pattern Inversed Hour Glass
+Introduction to functions
+Digit Frequency
+Number System - MCQ (& Intro to Number System)
+Decimal to any Base
+Any base to Decimal
+Any Base to Any Base
+Any Base Addition
+Any Base Subtraction
+Any Base Multiplication
+Introduction to arrays
+Arrays - Memory Management
+Span of an array
+Find an element in an array
+Bar Chart
+Sum of Two Arrays
+Difference Of Two Arrays
+Reverse an Array
+Rotate an Array
+Inverse of an Array
+Subarrays of an array
+Binary Search Algorithm(explain)
+Broken Economy
+First and Last Index
+Subsets of Array
+2D Arrays Demo
+Matrix multiplication
+The State of Wakanda - 1
+Spiral Display
+Exit point of a Matrix
+Rotate by 90 degrees
+Ring Rotate
+The State Of Wakanda - 2
+Saddle Price
+Search in a 2D sorted array
+Introduction to Strings
+Print All Palindromic Substrings
+String Compression
+String - Interning And Immutability
+SB usage and performance
+Toggle case
+String with Diff of consc. characters
+Print all perm's of a string
+Intro to ArrayList
+Remove Primes
+Print Decreasing
+Print Increasing
+Print Increasing Decreasing
+Factorial
+Power-linear
+Power-logarithmic
+Print ZigZag
+Tower of Hanoi
+Display in Arrays
+Display in Arrays In reverse
+Max of an Array
+First Index
+Last Index
+All Indices of Array
+Get Subsequence
+Get KPC
+Get Stair paths
+Get Maze Paths
+Get Maze Paths with jumps
+Print SubSequence
+Print KPC
+Print Stair paths
+Print Maze Paths
+Print Maze Paths with jumps
+Print Permutations
+Print Encodings
+Flood Fill
+Target Sum Subsets
+N Queens
+Knights Tour
+Fibonacci-dp
+Climb Stairs
+Climb Stairs With Variable Jumps
+Climb Stairs With Minimum Moves
+Min cost In Maze Traversal
+Goldmine
+Target Sum Subsets-DP
+Coin change Combination
+Coin change Permutations
+Zero One Knapsack
+Unbounded Knapsack
+Fractional Knapsack
+Count Binary Strings
+Arrange Buildings
+Count Encodings
+Count A+B+C subsequences
+Maximum Sum Non Adjacent Elements
+Paint House
+Paint House-Many colors
+Paint Fence
+Tilling with 2*1 Tiles
+Tilling with M*1 Tiles
+Friends Pairing
+Partition into Subsets
+Buy and sell Stocks-1 tran allowed
+Buy and sell Stocks-Infinite tran allowed
+Buy and sell Stocks with tran fee-Infinite tran allowed
+Buy and sell Stocks with cooldown -Infinite tran allowed
+Buy and sell Stocks-2 tran allowed
+Buy and sell Stocks-k tran allowed
+Bubble sort
+Selection sort
+insertion sort
+Merge two sorted arrays 
+Merge sort
+Partition An Array
+Quick sort
+Quick Select
+Count sort
+Radix sort
+Sort Dates
+Sort 01
+Sort 012
+Target Sum pair 1
+Pivot in a sorted and rotated array
+Linear Search VS Binary Search
+Experimental Comprison
+Introduction to stack
+Duplicate Brackets
+NGE to right
+Balanced Brackets
+Stock span
+Largest Area Histogram
+Sliding Window Maximum
+Infix Evaluation
+Infix Conversions
+Postfix Evaluation and Conversion
+Prefix Evaluation and Conversion
+Celebrity Problem
+Merge Overlapping Interval
+Smallest Number following pattern
+Normal Stack
+Dynamic Stack
+Minimum Stack-1
+Minimum Stack-constant Space
+Queues Intro and usage
+Normal Queue
+Dynamic Queue
+Queue to stack Adapter-Push efficient
+Queue to stack Adapter-Pop efficient
+Stack to Queue Adapter- Add efficient
+Stack to Queue Adapter- Remove efficient
+Two Stacks In An Array
+LinkedList Introduction 
+Add Last In LinkedList
+Display A LinkedList
+Remove First In LinkedList
+Get value in LinkedList
+Add first in linkedlist
+Add at Index in Linkedlist
+Remove last in LinekdList
+Remove at Index in Linkedlist
+Reverse a Linkedlist 
+Reverse Linkedlist pointer Iterative
+Linkedlist to stack adapter 
+Linkedlist to Queue adapter 
+Kth Node from end of Linkedlist 
+Mid of Linkedlist 
+Merge two sorted Linkedlist 
+Merge sort a Linkedlist 
+Remove duplicates in a sorted LinkedList
+Odd Even LinkedList
+K Reverse in Linkedlist 
+Display Reverse Recursive
+Reverse Linkedlist Pointer Recursive
+Is Linkedlist A Palindrome 
+Fold a Linkedlist 
+Add two Linkedlist 
+Intersection point of Linkedlist 
+Introduction to Generic tree
+Generic tree Constructor
+Display a Generic tree
+Size of Generic tree
+Maximum in a Generic tree
+Height of a Generic tree
+Generic tree Traversal- pre and post order
+Level-order of Generic tree
+Level-order Linewise
+Level-order Linewise Zig-zag
+Level order Traversal- More approaches
+Mirror of a Generic tree
+Remove Leaves in Generic tree
+Linearize a Generic tree
+Linearize a Generic tree-Efficient Approach
+Find in Generic tree
+Node to root path in Generic tree
+Lowest common ancestor-Generic tree
+Distance between 2 nodes in a Generic tree
+Are Trees similar in shape
+Is Generic tree Symmetric
+Multisolver for Generic tree
+Predecessor and successor of an Element 
+Ceil and floor in Generic tree
+Kth largest Element in tree
+Node with Maximum Subtree sum
+Diameter in a Generic tree
+Iterative Preorder and postorder of Generic tree
+Iterable and Iterator
+Binary Tree Introduction 
+Binary Tree Constructor
+Display a Binary tree
+"Size, sum , Max and height"
+Traversal in a Binary tree
+Level order Traversal of Binary tree
+"Iterative Pre, post and Inorder"
+Find and nodetorootpath in Binary tree
+Print K levels down 
+Print nodes k distance away 
+Path to leaf from root in range
+Transform to Left Cloned Tree
+Transform to Normal from Left Cloned Tree
+Print single child nodes
+Removes leaves in binary tree
+Diameter of a Binary tree 
+Tilt of a Binary tree 
+Is a Binary search tree
+Is balanced tree
+Largest Bst subtree
+Binary Search Tree-Introduction
+Binary Search Tree- Constructor
+"Size, sum, Max, Min, Find in BST"
+Add Node to BST
+Remove Node from BST
+Replace with sum of Larger
+LCA of BST
+Print in Range
+Target sum pair in BST
+Target Sum Pair-BST- Alternative 
+HashMap Introduction
+Highest frequency character
+Get common elements-1
+Get common elements-2
+Longest consecutive sequence 
+Heap Introduction and usage 
+K largest elements
+Sort k sorted Array
+Median Priority Queue
+Merge K sorted lists
+Write PriorityQueue using Heap
+Write HashMap
+Efficient Heap construction 
+Heap comparable VS comparator 
+Introduction to Graphs
+Has Path
+Print All paths
+Multisolver
+Get connected components 
+Is Graph connected
+Number of Islands
+Perfect friends
+Hamiltonian Path and Cycle
+Knights Tour
+Breadth First Traversal
+Is Graph Cyclic
+Is Graph Bipartite
+Spread of Infection
+Shortest path in weights
+Min wire required to connect all pcs
+Order of Compilation
+Iterative Depth first Traversal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
